@@ -1,0 +1,4069 @@
+[
+  {
+    "id": "4npn",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 4,
+    "productId": "4npn",
+    "productCount": 10,
+    "requirements": [
+      {"itemId": "l0ryo", "count": 2},
+      {"itemId": "dryl2", "count": 3},
+      {"itemId": "prrd", "count": 50},
+      {"itemId": "y770", "count": 15},
+      {"itemId": "mmn2", "count": 1}
+    ]
+  },
+  {
+    "id": "1rlgq",
+    "station": "Лабораторный стол",
+    "skill": "Медицина",
+    "skill_level": 1,
+    "productId": "1rlgq",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "zzqk2", "count": 7},
+      {"itemId": "drmwj", "count": 1},
+      {"itemId": "9mr0", "count": 7},
+      {"itemId": "1dnq", "count": 1}
+    ]
+  },
+  {
+    "id": "6w59j",
+    "station": "Лабораторный стол",
+    "skill": "Медицина",
+    "skill_level": 3,
+    "productId": "6w59j",
+    "productCount": 5,
+    "requirements": [
+      {"itemId": "mmn2", "count": 4},
+      {"itemId": "m22k", "count": 5},
+      {"itemId": "r22z", "count": 3}
+    ]
+  },
+  {
+    "id": "96zjw",
+    "station": "Лабораторный стол",
+    "skill": "Медицина",
+    "skill_level": 4,
+    "productId": "96zjw",
+    "productCount": 2,
+    "requirements": [
+      {"itemId": "1rlgq", "count": 1},
+      {"itemId": "4qgop", "count": 3},
+      {"itemId": "lynrj", "count": 1}
+    ]
+  },
+  {
+    "id": "7l1kr",
+    "station": "Лабораторный стол",
+    "skill": "Медицина",
+    "skill_level": 5,
+    "productId": "7l1kr",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "5lzyg", "count": 1},
+      {"itemId": "1rlgq", "count": 1},
+      {"itemId": "5dkg", "count": 1},
+      {"itemId": "p62q6", "count": 1}
+    ]
+  },
+  {
+    "id": "1r216_a",
+    "station": "Лабораторный стол",
+    "skill": "Медицина",
+    "skill_level": 5,
+    "productId": "1r216",
+    "productCount": 20,
+    "requirements": [
+      {"itemId": "lynkj", "count": 3},
+      {"itemId": "rw1mg", "count": 3},
+      {"itemId": "p62q6", "count": 3},
+      {"itemId": "4npn", "count": 1},
+      {"itemId": "prrd", "count": 10}
+    ]
+  },
+  {
+    "id": "1r216_b",
+    "station": "Лабораторный стол",
+    "skill": "Медицина",
+    "skill_level": 5,
+    "productId": "1r216",
+    "productCount": 5,
+    "requirements": [
+      {"itemId": "lynkj", "count": 3},
+      {"itemId": "rw1mg", "count": 3},
+      {"itemId": "6w59j", "count": 5},
+      {"itemId": "p62q6", "count": 3},
+      {"itemId": "prrd", "count": 10}
+    ]
+  },
+  {
+    "id": "zzqn2",
+    "station": "Лабораторный стол",
+    "skill": "Медицина",
+    "skill_level": 3,
+    "productId": "zzqn2",
+    "productCount": 15,
+    "requirements": [
+      {"itemId": "prl2", "count": 5},
+      {"itemId": "l2kk", "count": 1},
+      {"itemId": "g00n", "count": 3},
+      {"itemId": "npp9", "count": 6}
+    ]
+  },
+  {
+    "id": "964ow",
+    "station": "Лабораторный стол",
+    "skill": "Медицина",
+    "skill_level": 3,
+    "productId": "964ow",
+    "productCount": 15,
+    "requirements": [
+      {"itemId": "prl2", "count": 6},
+      {"itemId": "l2kk", "count": 1},
+      {"itemId": "g00n", "count": 3},
+      {"itemId": "5ddo", "count": 2}
+    ]
+  },
+  {
+    "id": "1r2yq",
+    "station": "Лабораторный стол",
+    "skill": "Медицина",
+    "skill_level": 5,
+    "productId": "1r2yq",
+    "productCount": 3,
+    "requirements": [
+      {"itemId": "w7ro", "count": 1},
+      {"itemId": "964ow", "count": 1},
+      {"itemId": "y220", "count": 1}
+    ]
+  },
+  {
+    "id": "zzqk2",
+    "station": "Лабораторный стол",
+    "skill": "Медицина",
+    "skill_level": 1,
+    "productId": "zzqk2",
+    "productCount": 20,
+    "requirements": [
+      {"itemId": "z7pn", "count": 1},
+      {"itemId": "drmwj", "count": 1}
+    ]
+  },
+  {
+    "id": "n4vw6_a",
+    "station": "Лабораторный стол",
+    "skill": "Медицина",
+    "skill_level": 3,
+    "productId": "n4vw6",
+    "productCount": 4,
+    "requirements": [
+      {"itemId": "l2kk", "count": 1},
+      {"itemId": "m22k", "count": 4},
+      {"itemId": "qj9n6", "count": 1},
+      {"itemId": "y2mo", "count": 1}
+    ]
+  },
+  {
+    "id": "1r2l6",
+    "station": "Лабораторный стол",
+    "skill": "Медицина",
+    "skill_level": 4,
+    "productId": "1r2l6",
+    "productCount": 20,
+    "requirements": [
+      {"itemId": "km9v", "count": 1},
+      {"itemId": "4njo", "count": 2},
+      {"itemId": "03v1", "count": 1},
+      {"itemId": "npp9", "count": 5}
+    ]
+  },
+  {
+    "id": "g4lz0",
+    "station": "Лабораторный стол",
+    "skill": "Медицина",
+    "skill_level": 5,
+    "productId": "g4lz0",
+    "productCount": 10,
+    "requirements": [
+      {"itemId": "km9v", "count": 1},
+      {"itemId": "r29y", "count": 1},
+      {"itemId": "z2y2", "count": 1}
+    ]
+  },
+  {
+    "id": "n4vw6_b",
+    "station": "Лабораторный стол",
+    "skill": "Медицина",
+    "skill_level": 5,
+    "productId": "n4vw6",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "g4lk0", "count": 2},
+      {"itemId": "4njo", "count": 4},
+      {"itemId": "lynrj", "count": 3},
+      {"itemId": "npp9", "count": 5}
+    ]
+  },
+  {
+    "id": "4qgop",
+    "station": "Лабораторный стол",
+    "skill": "Медицина",
+    "skill_level": 1,
+    "productId": "4qgop",
+    "productCount": 15,
+    "requirements": [
+      {"itemId": "9mgw", "count": 1},
+      {"itemId": "l2kk", "count": 1},
+      {"itemId": "y24k", "count": 1},
+      {"itemId": "npp9", "count": 2}
+    ]
+  },
+  {
+    "id": "lynrj",
+    "station": "Лабораторный стол",
+    "skill": "Медицина",
+    "skill_level": 3,
+    "productId": "lynrj",
+    "productCount": 10,
+    "requirements": [
+      {"itemId": "9mgw", "count": 5},
+      {"itemId": "y24k", "count": 2},
+      {"itemId": "ovv5", "count": 10},
+      {"itemId": "l222", "count": 2}
+    ]
+  },
+  {
+    "id": "p62q6",
+    "station": "Лабораторный стол",
+    "skill": "Медицина",
+    "skill_level": 4,
+    "productId": "p62q6",
+    "productCount": 4,
+    "requirements": [
+      {"itemId": "drmwj", "count": 1},
+      {"itemId": "03v1", "count": 1},
+      {"itemId": "r22z", "count": 1},
+      {"itemId": "npp9", "count": 5}
+    ]
+  },
+  {
+    "id": "vjy3n",
+    "station": "Лабораторный стол",
+    "skill": "Медицина",
+    "skill_level": 4,
+    "productId": "vjy3n",
+    "productCount": 4,
+    "requirements": [
+      {"itemId": "026y", "count": 1},
+      {"itemId": "zzqn2", "count": 1},
+      {"itemId": "r22z", "count": 1},
+      {"itemId": "prrd", "count": 7}
+    ]
+  },
+  {
+    "id": "y3knz",
+    "station": "Лабораторный стол",
+    "skill": "Медицина",
+    "skill_level": 5,
+    "productId": "y3knz",
+    "productCount": 10,
+    "requirements": [
+      {"itemId": "4npn", "count": 1},
+      {"itemId": "y220", "count": 1},
+      {"itemId": "r22z", "count": 1}
+    ]
+  },
+  {
+    "id": "vr1n_a",
+    "station": "Лабораторный стол",
+    "skill": "Медицина",
+    "skill_level": 1,
+    "productId": "vr1n",
+    "productCount": 3,
+    "requirements": [
+      {"itemId": "2d76", "count": 1}
+    ]
+  },
+  {
+    "id": "vr1n_b",
+    "station": "Лабораторный стол",
+    "skill": "Медицина",
+    "skill_level": 1,
+    "productId": "vr1n",
+    "productCount": 3,
+    "requirements": [
+      {"itemId": "vrpd", "count": 1}
+    ]
+  },
+  {
+    "id": "vr1n_c",
+    "station": "Лабораторный стол",
+    "skill": "Медицина",
+    "skill_level": 1,
+    "productId": "vr1n",
+    "productCount": 3,
+    "requirements": [
+      {"itemId": "dq0n", "count": 1}
+    ]
+  },
+  {
+    "id": "026y",
+    "station": "Лабораторный стол",
+    "skill": "Медицина",
+    "skill_level": 1,
+    "productId": "026y",
+    "productCount": 5,
+    "requirements": [
+      {"itemId": "vr1n", "count": 3},
+      {"itemId": "km6y", "count": 3},
+      {"itemId": "jon0", "count": 4},
+      {"itemId": "z77k", "count": 1}
+    ]
+  },
+  {
+    "id": "mmn2",
+    "station": "Лабораторный стол",
+    "skill": "Медицина",
+    "skill_level": 2,
+    "productId": "mmn2",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "026y", "count": 1},
+      {"itemId": "wodp", "count": 1}
+    ]
+  },
+  {
+    "id": "km9v",
+    "station": "Лабораторный стол",
+    "skill": "Медицина",
+    "skill_level": 3,
+    "productId": "km9v",
+    "productCount": 5,
+    "requirements": [
+      {"itemId": "vr1n", "count": 3},
+      {"itemId": "404p", "count": 1},
+      {"itemId": "npr6", "count": 2},
+      {"itemId": "mmn2", "count": 2}
+    ]
+  },
+  {
+    "id": "wopo",
+    "station": "Лабораторный стол",
+    "skill": "Инженерия",
+    "skill_level": 2,
+    "productId": "wopo",
+    "productCount": 3,
+    "requirements": [
+      {"itemId": "z7pn", "count": 1},
+      {"itemId": "jl26", "count": 1},
+      {"itemId": "klk3", "count": 1}
+    ]
+  },
+  {
+    "id": "m27j",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 1,
+    "productId": "m27j",
+    "productCount": 5,
+    "requirements": [
+      {"itemId": "rr05", "count": 1},
+      {"itemId": "g00n", "count": 7}
+    ]
+  },
+  {
+    "id": "z7d2",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 1,
+    "productId": "z7d2",
+    "productCount": 10,
+    "requirements": [
+      {"itemId": "dmypg", "count": 1}
+    ]
+  },
+  {
+    "id": "5dkg",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 1,
+    "productId": "5dkg",
+    "productCount": 5,
+    "requirements": [
+      {"itemId": "3rpg", "count": 2},
+      {"itemId": "pry2", "count": 1},
+      {"itemId": "y7po", "count": 1},
+      {"itemId": "ovv5", "count": 8}
+    ]
+  },
+  {
+    "id": "jl44",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 1,
+    "productId": "jl44",
+    "productCount": 5,
+    "requirements": [
+      {"itemId": "rwow5", "count": 1},
+      {"itemId": "wopo", "count": 1},
+      {"itemId": "kl70", "count": 1},
+      {"itemId": "wodp", "count": 1}
+    ]
+  },
+  {
+    "id": "wo2d",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 1,
+    "productId": "wo2d",
+    "productCount": 5,
+    "requirements": [
+      {"itemId": "9mmq", "count": 35},
+      {"itemId": "rwow5", "count": 2},
+      {"itemId": "wodp", "count": 1}
+    ]
+  },
+  {
+    "id": "qvm9",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 2,
+    "productId": "qvm9",
+    "productCount": 8,
+    "requirements": [
+      {"itemId": "40vn", "count": 5},
+      {"itemId": "rwow5", "count": 5},
+      {"itemId": "jl77", "count": 2},
+      {"itemId": "jl66", "count": 1}
+    ]
+  },
+  {
+    "id": "ov7o",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 1,
+    "productId": "ov7o",
+    "productCount": 10,
+    "requirements": [
+      {"itemId": "dryl2", "count": 1},
+      {"itemId": "m2k7", "count": 1},
+      {"itemId": "ovj0", "count": 1}
+    ]
+  },
+  {
+    "id": "03zd",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 1,
+    "productId": "03zd",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "z7pn", "count": 1},
+      {"itemId": "jl26", "count": 1},
+      {"itemId": "ll41", "count": 1}
+    ]
+  },
+  {
+    "id": "dqn9",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 1,
+    "productId": "dqn9",
+    "productCount": 5,
+    "requirements": [
+      {"itemId": "w39k3", "count": 1},
+      {"itemId": "z3k1m", "count": 1},
+      {"itemId": "55ymq", "count": 1},
+      {"itemId": "wodp", "count": 5}
+    ]
+  },
+  {
+    "id": "ll7j",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 1,
+    "productId": "ll7j",
+    "productCount": 5,
+    "requirements": [
+      {"itemId": "40vn", "count": 5},
+      {"itemId": "rwow5", "count": 1},
+      {"itemId": "klwv", "count": 1}
+    ]
+  },
+  {
+    "id": "kl70",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 1,
+    "productId": "kl70",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "wooz", "count": 5},
+      {"itemId": "y7po", "count": 1}
+    ]
+  },
+  {
+    "id": "y7dz",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 1,
+    "productId": "y7dz",
+    "productCount": 12,
+    "requirements": [
+      {"itemId": "w39k3", "count": 1},
+      {"itemId": "5logg", "count": 1}
+    ]
+  },
+  {
+    "id": "qv76",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 1,
+    "productId": "qv76",
+    "productCount": 3,
+    "requirements": [
+      {"itemId": "klwv", "count": 1},
+      {"itemId": "y7po", "count": 3}
+    ]
+  },
+  {
+    "id": "404p_a",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 1,
+    "productId": "404p",
+    "productCount": 12,
+    "requirements": [
+      {"itemId": "w39k3", "count": 1},
+      {"itemId": "5logg", "count": 1}
+    ]
+  },
+  {
+    "id": "404p_b",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 1,
+    "productId": "404p",
+    "productCount": 40,
+    "requirements": [
+      {"itemId": "009n9", "count": 1},
+      {"itemId": "y7po", "count": 1}
+    ]
+  },
+  {
+    "id": "404p_c",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 1,
+    "productId": "404p",
+    "productCount": 12,
+    "requirements": [
+      {"itemId": "w39k3", "count": 1},
+      {"itemId": "5logg", "count": 1}
+    ]
+  },
+  {
+    "id": "wodp_a",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 1,
+    "productId": "wodp",
+    "productCount": 12,
+    "requirements": [
+      {"itemId": "w39k3", "count": 1},
+      {"itemId": "5logg", "count": 1}
+    ]
+  },
+  {
+    "id": "wodp_b",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 1,
+    "productId": "wodp",
+    "productCount": 40,
+    "requirements": [
+      {"itemId": "y7po", "count": 1},
+      {"itemId": "gn976", "count": 1}
+    ]
+  },
+  {
+    "id": "7l127",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 2,
+    "productId": "7l127",
+    "productCount": 5,
+    "requirements": [
+      {"itemId": "w39k3", "count": 3},
+      {"itemId": "5logg", "count": 3},
+      {"itemId": "wodp", "count": 2}
+    ]
+  },
+  {
+    "id": "1731",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 2,
+    "productId": "1731",
+    "productCount": 4,
+    "requirements": [
+      {"itemId": "rwow5", "count": 1},
+      {"itemId": "ll7j", "count": 3},
+      {"itemId": "y7dz", "count": 2},
+      {"itemId": "kmmj", "count": 3}
+    ]
+  },
+  {
+    "id": "z3ozm",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 5,
+    "productId": "z3ozm",
+    "productCount": 30,
+    "requirements": [
+      {"itemId": "7l127", "count": 100},
+      {"itemId": "g00n", "count": 10},
+      {"itemId": "npq3", "count": 1}
+    ]
+  },
+  {
+    "id": "96z7y",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 5,
+    "productId": "96z7y",
+    "productCount": 20,
+    "requirements": [
+      {"itemId": "z3ozm", "count": 15},
+      {"itemId": "7l127", "count": 100}
+    ]
+  },
+  {
+    "id": "40vn",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 1,
+    "productId": "40vn",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "3rpg", "count": 3}
+    ]
+  },
+  {
+    "id": "klq0_a",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 1,
+    "productId": "klq0",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "3rpg", "count": 4}
+    ]
+  },
+  {
+    "id": "klq0_b",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 1,
+    "productId": "klq0",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "vrpd", "count": 5},
+      {"itemId": "40vn", "count": 2}
+    ]
+  },
+  {
+    "id": "klq0_c",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 1,
+    "productId": "klq0",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "dq0n", "count": 5},
+      {"itemId": "40vn", "count": 2}
+    ]
+  },
+  {
+    "id": "klq0_d",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 1,
+    "productId": "klq0",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "2d76", "count": 5},
+      {"itemId": "40vn", "count": 2}
+    ]
+  },
+  {
+    "id": "l2kk",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 1,
+    "productId": "l2kk",
+    "productCount": 3,
+    "requirements": [
+      {"itemId": "ll6q", "count": 3},
+      {"itemId": "dqg5", "count": 4},
+      {"itemId": "y7po", "count": 1}
+    ]
+  },
+  {
+    "id": "ll6q",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 1,
+    "productId": "ll6q",
+    "productCount": 5,
+    "requirements": [
+      {"itemId": "9mmq", "count": 8},
+      {"itemId": "rwow5", "count": 3},
+      {"itemId": "wodp", "count": 2},
+      {"itemId": "jl66", "count": 1}
+    ]
+  },
+  {
+    "id": "5n51",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 1,
+    "productId": "5n51",
+    "productCount": 5,
+    "requirements": [
+      {"itemId": "qvm9", "count": 3},
+      {"itemId": "9mgw", "count": 3},
+      {"itemId": "404p", "count": 1}
+    ]
+  },
+  {
+    "id": "w732",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 1,
+    "productId": "w732",
+    "productCount": 3,
+    "requirements": [
+      {"itemId": "40vn", "count": 1},
+      {"itemId": "qvm9", "count": 1}
+    ]
+  },
+  {
+    "id": "ovo4",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 2,
+    "productId": "ovo4",
+    "productCount": 5,
+    "requirements": [
+      {"itemId": "wooz", "count": 3},
+      {"itemId": "404p", "count": 3},
+      {"itemId": "qv76", "count": 3}
+    ]
+  },
+  {
+    "id": "40dl",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 2,
+    "productId": "40dl",
+    "productCount": 5,
+    "requirements": [
+      {"itemId": "9mmq", "count": 50},
+      {"itemId": "rwow5", "count": 1},
+      {"itemId": "wodp", "count": 1}
+    ]
+  },
+  {
+    "id": "m2lr",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 2,
+    "productId": "m2lr",
+    "productCount": 5,
+    "requirements": [
+      {"itemId": "qvrk", "count": 3},
+      {"itemId": "404p", "count": 3},
+      {"itemId": "qv76", "count": 1}
+    ]
+  },
+  {
+    "id": "np0w",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 2,
+    "productId": "np0w",
+    "productCount": 3,
+    "requirements": [
+      {"itemId": "y7po", "count": 1},
+      {"itemId": "jlll", "count": 3}
+    ]
+  },
+  {
+    "id": "y7po",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 2,
+    "productId": "y7po",
+    "productCount": 5,
+    "requirements": [
+      {"itemId": "pry2", "count": 2},
+      {"itemId": "jl44", "count": 4},
+      {"itemId": "4nkr", "count": 5}
+    ]
+  },
+  {
+    "id": "035r",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 2,
+    "productId": "035r",
+    "productCount": 6,
+    "requirements": [
+      {"itemId": "qv76", "count": 1},
+      {"itemId": "404p", "count": 1}
+    ]
+  },
+  {
+    "id": "klk3",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 2,
+    "productId": "klk3",
+    "productCount": 10,
+    "requirements": [
+      {"itemId": "klwv", "count": 4},
+      {"itemId": "404p", "count": 1},
+      {"itemId": "y7po", "count": 1}
+    ]
+  },
+  {
+    "id": "4nkr_a",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 2,
+    "productId": "4nkr",
+    "productCount": 5,
+    "requirements": [
+      {"itemId": "ll6q", "count": 1},
+      {"itemId": "404p", "count": 1},
+      {"itemId": "qvv4", "count": 5}
+    ]
+  },
+  {
+    "id": "4nkr_b",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 2,
+    "productId": "4nkr",
+    "productCount": 5,
+    "requirements": [
+      {"itemId": "ov50", "count": 1},
+      {"itemId": "404p", "count": 1},
+      {"itemId": "np0w", "count": 2}
+    ]
+  },
+  {
+    "id": "4nkr_c",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 2,
+    "productId": "4nkr",
+    "productCount": 5,
+    "requirements": [
+      {"itemId": "npz3", "count": 1},
+      {"itemId": "404p", "count": 1},
+      {"itemId": "np0w", "count": 2}
+    ]
+  },
+  {
+    "id": "4nnj",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 2,
+    "productId": "4nnj",
+    "productCount": 3,
+    "requirements": [
+      {"itemId": "ll6q", "count": 3},
+      {"itemId": "5d24", "count": 3},
+      {"itemId": "404p", "count": 1},
+      {"itemId": "3g1qz", "count": 1}
+    ]
+  },
+  {
+    "id": "z29n",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 2,
+    "productId": "z29n",
+    "productCount": 6,
+    "requirements": [
+      {"itemId": "w732", "count": 2},
+      {"itemId": "y7po", "count": 1},
+      {"itemId": "q224", "count": 2}
+    ]
+  },
+  {
+    "id": "y24k",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 2,
+    "productId": "y24k",
+    "productCount": 5,
+    "requirements": [
+      {"itemId": "5dkg", "count": 3},
+      {"itemId": "np0w", "count": 1},
+      {"itemId": "y7dz", "count": 1}
+    ]
+  },
+  {
+    "id": "y263",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 2,
+    "productId": "y263",
+    "productCount": 4,
+    "requirements": [
+      {"itemId": "035r", "count": 5},
+      {"itemId": "y7po", "count": 2},
+      {"itemId": "40dl", "count": 3}
+    ]
+  },
+  {
+    "id": "jon0",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 2,
+    "productId": "jon0",
+    "productCount": 3,
+    "requirements": [
+      {"itemId": "qvm9", "count": 1},
+      {"itemId": "wo2d", "count": 1},
+      {"itemId": "y7po", "count": 1}
+    ]
+  },
+  {
+    "id": "q224",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 2,
+    "productId": "q224",
+    "productCount": 4,
+    "requirements": [
+      {"itemId": "qvm9", "count": 2},
+      {"itemId": "y7dz", "count": 1},
+      {"itemId": "l2kk", "count": 3},
+      {"itemId": "jl44", "count": 3}
+    ]
+  },
+  {
+    "id": "gm2p",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 2,
+    "productId": "gm2p",
+    "productCount": 4,
+    "requirements": [
+      {"itemId": "g0gp", "count": 2},
+      {"itemId": "qvm9", "count": 2},
+      {"itemId": "q224", "count": 3}
+    ]
+  },
+  {
+    "id": "99pz",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 2,
+    "productId": "99pz",
+    "productCount": 2,
+    "requirements": [
+      {"itemId": "klk3", "count": 1},
+      {"itemId": "kmmj", "count": 1},
+      {"itemId": "w77z", "count": 1}
+    ]
+  },
+  {
+    "id": "kmmj",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 2,
+    "productId": "kmmj",
+    "productCount": 4,
+    "requirements": [
+      {"itemId": "wo2d", "count": 4},
+      {"itemId": "y263", "count": 3}
+    ]
+  },
+  {
+    "id": "km6y",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 2,
+    "productId": "km6y",
+    "productCount": 8,
+    "requirements": [
+      {"itemId": "jl44", "count": 6},
+      {"itemId": "404p", "count": 3}
+    ]
+  },
+  {
+    "id": "km2p",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 3,
+    "productId": "km2p",
+    "productCount": 2,
+    "requirements": [
+      {"itemId": "drmwj", "count": 1},
+      {"itemId": "035r", "count": 4},
+      {"itemId": "wo2d", "count": 3}
+    ]
+  },
+  {
+    "id": "l2oo",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 3,
+    "productId": "l2oo",
+    "productCount": 7,
+    "requirements": [
+      {"itemId": "404p", "count": 1},
+      {"itemId": "4nkr", "count": 1},
+      {"itemId": "lll2", "count": 4}
+    ]
+  },
+  {
+    "id": "w7y3",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 3,
+    "productId": "w7y3",
+    "productCount": 3,
+    "requirements": [
+      {"itemId": "w732", "count": 3},
+      {"itemId": "wo2d", "count": 1},
+      {"itemId": "jl66", "count": 1}
+    ]
+  },
+  {
+    "id": "q2p3",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 3,
+    "productId": "q2p3",
+    "productCount": 4,
+    "requirements": [
+      {"itemId": "klwv", "count": 2},
+      {"itemId": "404p", "count": 1},
+      {"itemId": "y7po", "count": 3}
+    ]
+  },
+  {
+    "id": "jowg",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 3,
+    "productId": "jowg",
+    "productCount": 4,
+    "requirements": [
+      {"itemId": "drmwj", "count": 2},
+      {"itemId": "m27j", "count": 4},
+      {"itemId": "y7dz", "count": 3}
+    ]
+  },
+  {
+    "id": "4njo",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 3,
+    "productId": "4njo",
+    "productCount": 4,
+    "requirements": [
+      {"itemId": "drmwj", "count": 2},
+      {"itemId": "wo2d", "count": 1},
+      {"itemId": "4nkr", "count": 4}
+    ]
+  },
+  {
+    "id": "jool",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 4,
+    "productId": "jool",
+    "productCount": 3,
+    "requirements": [
+      {"itemId": "vrwg", "count": 5},
+      {"itemId": "jowg", "count": 4}
+    ]
+  },
+  {
+    "id": "w77z",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 4,
+    "productId": "w77z",
+    "productCount": 6,
+    "requirements": [
+      {"itemId": "rwow5", "count": 2},
+      {"itemId": "klk3", "count": 5},
+      {"itemId": "5njq", "count": 5}
+    ]
+  },
+  {
+    "id": "r29y",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 1,
+    "productId": "r29y",
+    "productCount": 6,
+    "requirements": [
+      {"itemId": "drmwj", "count": 3},
+      {"itemId": "ov7o", "count": 3},
+      {"itemId": "jl44", "count": 2}
+    ]
+  },
+  {
+    "id": "y220",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 2,
+    "productId": "y220",
+    "productCount": 4,
+    "requirements": [
+      {"itemId": "y7po", "count": 3},
+      {"itemId": "r29y", "count": 4}
+    ]
+  },
+  {
+    "id": "l222",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 2,
+    "productId": "l222",
+    "productCount": 3,
+    "requirements": [
+      {"itemId": "m27j", "count": 2},
+      {"itemId": "km2p", "count": 3}
+    ]
+  },
+  {
+    "id": "w7ro",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 3,
+    "productId": "w7ro",
+    "productCount": 10,
+    "requirements": [
+      {"itemId": "rjvwy", "count": 2},
+      {"itemId": "21065", "count": 3},
+      {"itemId": "mmn2", "count": 1},
+      {"itemId": "npp9", "count": 50},
+      {"itemId": "5ddo", "count": 25}
+    ]
+  },
+  {
+    "id": "5np0_a",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 3,
+    "productId": "5np0",
+    "productCount": 3,
+    "requirements": [
+      {"itemId": "y7dz", "count": 2},
+      {"itemId": "7l127", "count": 160},
+      {"itemId": "q224", "count": 2},
+      {"itemId": "z3ozm", "count": 1},
+      {"itemId": "r29y", "count": 5}
+    ]
+  },
+  {
+    "id": "5np0_b",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 3,
+    "productId": "5np0",
+    "productCount": 3,
+    "requirements": [
+      {"itemId": "wodp", "count": 3},
+      {"itemId": "7l127", "count": 200},
+      {"itemId": "4nnj", "count": 1},
+      {"itemId": "z3ozm", "count": 2},
+      {"itemId": "r29y", "count": 5}
+    ]
+  },
+  {
+    "id": "99n0",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 3,
+    "productId": "99n0",
+    "productCount": 2,
+    "requirements": [
+      {"itemId": "wodp", "count": 1},
+      {"itemId": "404p", "count": 1},
+      {"itemId": "99pz", "count": 2},
+      {"itemId": "jool", "count": 3}
+    ]
+  },
+  {
+    "id": "r22z_a",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 4,
+    "productId": "r22z",
+    "productCount": 3,
+    "requirements": [
+      {"itemId": "404p", "count": 2},
+      {"itemId": "jowg", "count": 3},
+      {"itemId": "ovv5", "count": 1},
+      {"itemId": "npp9", "count": 1},
+      {"itemId": "prrd", "count": 1}
+    ]
+  },
+  {
+    "id": "r22z_b",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 5,
+    "productId": "r22z",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "y7dz", "count": 3},
+      {"itemId": "r22z", "count": 10},
+      {"itemId": "96z2z", "count": 15},
+      {"itemId": "npq3", "count": 5},
+      {"itemId": "17k6", "count": 1}
+    ]
+  },
+  {
+    "id": "9dk7l",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 5,
+    "productId": "9dk7l",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "wodp", "count": 3},
+      {"itemId": "r22z", "count": 10},
+      {"itemId": "96z2z", "count": 15},
+      {"itemId": "npq3", "count": 5},
+      {"itemId": "z2y2", "count": 1}
+    ]
+  },
+  {
+    "id": "z2y2_a",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 5,
+    "productId": "z2y2",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "dqn9", "count": 30},
+      {"itemId": "4npn", "count": 10},
+      {"itemId": "w7ro", "count": 10},
+      {"itemId": "w77z", "count": 15},
+      {"itemId": "1rl71", "count": 30}
+    ]
+  },
+  {
+    "id": "z2y2_b",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 5,
+    "productId": "z2y2",
+    "productCount": 10,
+    "requirements": [
+      {"itemId": "4k3qo", "count": 2},
+      {"itemId": "y770", "count": 10},
+      {"itemId": "prrd", "count": 50}
+    ]
+  },
+  {
+    "id": "gmy0",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 5,
+    "productId": "gmy0",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "jl44", "count": 16},
+      {"itemId": "dqn9", "count": 30},
+      {"itemId": "y2mo", "count": 10},
+      {"itemId": "4npn", "count": 15},
+      {"itemId": "1rl71", "count": 30}
+    ]
+  },
+  {
+    "id": "17k6",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 5,
+    "productId": "17k6",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "qvm9", "count": 5},
+      {"itemId": "dqn9", "count": 1},
+      {"itemId": "5np0", "count": 10},
+      {"itemId": "w7ro", "count": 5},
+      {"itemId": "1rl71", "count": 30}
+    ]
+  },
+  {
+    "id": "1rlw2",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 5,
+    "productId": "1rlw2",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "404p", "count": 3},
+      {"itemId": "r22z", "count": 10},
+      {"itemId": "96z2z", "count": 15},
+      {"itemId": "npq3", "count": 5},
+      {"itemId": "gmy0", "count": 1}
+    ]
+  },
+  {
+    "id": "m2g7",
+    "station": "Лабораторный стол",
+    "skill": "Инженерия",
+    "skill_level": 2,
+    "productId": "m2g7",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "z7pn", "count": 5},
+      {"itemId": "m2lr", "count": 3}
+    ]
+  },
+  {
+    "id": "jl77_a",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 1,
+    "productId": "jl77",
+    "productCount": 7,
+    "requirements": [
+      {"itemId": "y7po", "count": 2},
+      {"itemId": "dq2n", "count": 2}
+    ]
+  },
+  {
+    "id": "jl77_b",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 1,
+    "productId": "jl77",
+    "productCount": 20,
+    "requirements": [
+      {"itemId": "55olq", "count": 1},
+      {"itemId": "y7po", "count": 5}
+    ]
+  },
+  {
+    "id": "jl77_c",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 1,
+    "productId": "jl77",
+    "productCount": 10,
+    "requirements": [
+      {"itemId": "y7po", "count": 4},
+      {"itemId": "2d56", "count": 1}
+    ]
+  },
+  {
+    "id": "g05g",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 1,
+    "productId": "g05g",
+    "productCount": 5,
+    "requirements": [
+      {"itemId": "rr7g", "count": 1},
+      {"itemId": "npr6", "count": 1},
+      {"itemId": "y7po", "count": 3}
+    ]
+  },
+  {
+    "id": "rr7g_a",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 1,
+    "productId": "rr7g",
+    "productCount": 14,
+    "requirements": [
+      {"itemId": "y7po", "count": 5},
+      {"itemId": "kllj", "count": 10}
+    ]
+  },
+  {
+    "id": "rr7g_b",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 1,
+    "productId": "rr7g",
+    "productCount": 40,
+    "requirements": [
+      {"itemId": "olz36", "count": 2},
+      {"itemId": "y7po", "count": 2}
+    ]
+  },
+  {
+    "id": "prm6_a",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 1,
+    "productId": "prm6",
+    "productCount": 5,
+    "requirements": [
+      {"itemId": "wopo", "count": 1},
+      {"itemId": "w3923", "count": 1}
+    ]
+  },
+  {
+    "id": "prm6_b",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 1,
+    "productId": "prm6",
+    "productCount": 40,
+    "requirements": [
+      {"itemId": "wopo", "count": 2},
+      {"itemId": "y7po", "count": 2},
+      {"itemId": "55621", "count": 1}
+    ]
+  },
+  {
+    "id": "npr6",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 1,
+    "productId": "npr6",
+    "productCount": 3,
+    "requirements": [
+      {"itemId": "400j", "count": 10},
+      {"itemId": "y7po", "count": 1},
+      {"itemId": "m22k", "count": 10}
+    ]
+  },
+  {
+    "id": "y79w",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 2,
+    "productId": "y79w",
+    "productCount": 5,
+    "requirements": [
+      {"itemId": "rr7g", "count": 3}
+    ]
+  },
+  {
+    "id": "5d24",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 2,
+    "productId": "5d24",
+    "productCount": 4,
+    "requirements": [
+      {"itemId": "wopo", "count": 1},
+      {"itemId": "404p", "count": 1},
+      {"itemId": "jlll", "count": 3}
+    ]
+  },
+  {
+    "id": "z719_a",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 2,
+    "productId": "z719",
+    "productCount": 5,
+    "requirements": [
+      {"itemId": "jl77", "count": 3},
+      {"itemId": "qv76", "count": 1}
+    ]
+  },
+  {
+    "id": "z719_b",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 2,
+    "productId": "z719",
+    "productCount": 3,
+    "requirements": [
+      {"itemId": "dj92", "count": 1},
+      {"itemId": "404p", "count": 1},
+      {"itemId": "5dkg", "count": 2}
+    ]
+  },
+  {
+    "id": "q2yj",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 2,
+    "productId": "q2yj",
+    "productCount": 3,
+    "requirements": [
+      {"itemId": "z719", "count": 1},
+      {"itemId": "qv76", "count": 1},
+      {"itemId": "404p", "count": 1},
+      {"itemId": "kllj", "count": 1}
+    ]
+  },
+  {
+    "id": "5njq",
+    "station": "Лабораторный стол",
+    "skill": "Сырьё и материалы",
+    "skill_level": 3,
+    "productId": "5njq",
+    "productCount": 4,
+    "requirements": [
+      {"itemId": "qv76", "count": 2},
+      {"itemId": "404p", "count": 1},
+      {"itemId": "4nkr", "count": 7}
+    ]
+  },
+  {
+    "id": "okp24",
+    "station": "Верстак",
+    "skill": "Боеприпасы",
+    "skill_level": 1,
+    "productId": "okp24",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "5n51", "count": 20},
+      {"itemId": "1dnq", "count": 1},
+      {"itemId": "z22k", "count": 20},
+      {"itemId": "gmmn", "count": 20}
+    ]
+  },
+  {
+    "id": "4q7yl",
+    "station": "Верстак",
+    "skill": "Боеприпасы",
+    "skill_level": 5,
+    "productId": "4q7yl",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "m2lr", "count": 25},
+      {"itemId": "okp24", "count": 1}
+    ]
+  },
+  {
+    "id": "y31mk",
+    "station": "Верстак",
+    "skill": "Боеприпасы",
+    "skill_level": 5,
+    "productId": "y31mk",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "okp24", "count": 1},
+      {"itemId": "4nnj", "count": 10}
+    ]
+  },
+  {
+    "id": "rwv7l",
+    "station": "Верстак",
+    "skill": "Боеприпасы",
+    "skill_level": 5,
+    "productId": "rwv7l",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "404p", "count": 3},
+      {"itemId": "okp24", "count": 1},
+      {"itemId": "l2oo", "count": 7}
+    ]
+  },
+  {
+    "id": "okq16",
+    "station": "Верстак",
+    "skill": "Боеприпасы",
+    "skill_level": 5,
+    "productId": "okq16",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "y7dz", "count": 3},
+      {"itemId": "y7po", "count": 3},
+      {"itemId": "okp24", "count": 1},
+      {"itemId": "gm2p", "count": 2}
+    ]
+  },
+  {
+    "id": "vjqkr",
+    "station": "Верстак",
+    "skill": "Боеприпасы",
+    "skill_level": 5,
+    "productId": "rwv7l",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "okp24", "count": 1},
+      {"itemId": "q2yj", "count": 4},
+      {"itemId": "99n0", "count": 1}
+    ]
+  },
+  {
+    "id": "g4r26",
+    "station": "Верстак",
+    "skill": "Боеприпасы",
+    "skill_level": 4,
+    "productId": "g4r26",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "5n51", "count": 20},
+      {"itemId": "1dnq", "count": 1},
+      {"itemId": "5nno", "count": 20},
+      {"itemId": "gmmn", "count": 20}
+    ]
+  },
+  {
+    "id": "zzg9y",
+    "station": "Верстак",
+    "skill": "Боеприпасы",
+    "skill_level": 5,
+    "productId": "zzg9y",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "m2lr", "count": 25},
+      {"itemId": "g4r26", "count": 1}
+    ]
+  },
+  {
+    "id": "wjnr2",
+    "station": "Верстак",
+    "skill": "Боеприпасы",
+    "skill_level": 5,
+    "productId": "wjnr2",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "g4r26", "count": 1},
+      {"itemId": "4nnj", "count": 10}
+    ]
+  },
+  {
+    "id": "1r03g",
+    "station": "Верстак",
+    "skill": "Боеприпасы",
+    "skill_level": 5,
+    "productId": "1r03g",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "404p", "count": 3},
+      {"itemId": "g4r26", "count": 1},
+      {"itemId": "l2oo", "count": 7}
+    ]
+  },
+  {
+    "id": "0rwg9_a",
+    "station": "Верстак",
+    "skill": "Боеприпасы",
+    "skill_level": 5,
+    "productId": "0rwg9",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "z719", "count": 4},
+      {"itemId": "g4r26", "count": 1},
+      {"itemId": "l2oo", "count": 1},
+      {"itemId": "4nnj", "count": 2}
+    ]
+  },
+  {
+    "id": "p6qd5",
+    "station": "Верстак",
+    "skill": "Боеприпасы",
+    "skill_level": 1,
+    "productId": "p6qd5",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "5n51", "count": 20},
+      {"itemId": "1dnq", "count": 1},
+      {"itemId": "z22k", "count": 20},
+      {"itemId": "gmmn", "count": 20}
+    ]
+  },
+  {
+    "id": "knpd3",
+    "station": "Верстак",
+    "skill": "Боеприпасы",
+    "skill_level": 5,
+    "productId": "knpd3",
+    "productCount": 5,
+    "requirements": [
+      {"itemId": "m2lr", "count": 25},
+      {"itemId": "p6qd5", "count": 1}
+    ]
+  },
+  {
+    "id": "4qzpr",
+    "station": "Верстак",
+    "skill": "Боеприпасы",
+    "skill_level": 5,
+    "productId": "4qzpr",
+    "productCount": 5,
+    "requirements": [
+      {"itemId": "p6qd5", "count": 1},
+      {"itemId": "4nnj", "count": 10}
+    ]
+  },
+  {
+    "id": "m0q7r",
+    "station": "Верстак",
+    "skill": "Боеприпасы",
+    "skill_level": 5,
+    "productId": "m0q7r",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "404p", "count": 3},
+      {"itemId": "p6qd5", "count": 1},
+      {"itemId": "l2oo", "count": 7}
+    ]
+  },
+  {
+    "id": "lywmk",
+    "station": "Верстак",
+    "skill": "Боеприпасы",
+    "skill_level": 5,
+    "productId": "lywmk",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "prm6", "count": 2},
+      {"itemId": "p6qd5", "count": 1},
+      {"itemId": "5np0", "count": 1}
+    ]
+  },
+  {
+    "id": "vj3zg",
+    "station": "Верстак",
+    "skill": "Боеприпасы",
+    "skill_level": 1,
+    "productId": "vj3zg",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "5n51", "count": 20},
+      {"itemId": "1dnq", "count": 1},
+      {"itemId": "z22k", "count": 20},
+      {"itemId": "gmmn", "count": 20}
+    ]
+  },
+  {
+    "id": "qjq69",
+    "station": "Верстак",
+    "skill": "Боеприпасы",
+    "skill_level": 5,
+    "productId": "qjq69",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "m2lr", "count": 25},
+      {"itemId": "vj3zg", "count": 1}
+    ]
+  },
+  {
+    "id": "kny0y",
+    "station": "Верстак",
+    "skill": "Боеприпасы",
+    "skill_level": 5,
+    "productId": "kny0y",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "vj3zg", "count": 1},
+      {"itemId": "4nnj", "count": 10}
+    ]
+  },
+  {
+    "id": "okp74",
+    "station": "Верстак",
+    "skill": "Боеприпасы",
+    "skill_level": 5,
+    "productId": "okp74",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "404p", "count": 3},
+      {"itemId": "vj3zg", "count": 1},
+      {"itemId": "l2oo", "count": 7}
+    ]
+  },
+  {
+    "id": "rwl5v",
+    "station": "Верстак",
+    "skill": "Боеприпасы",
+    "skill_level": 5,
+    "productId": "rwl5v",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "prm6", "count": 2},
+      {"itemId": "vj3zg", "count": 1},
+      {"itemId": "4nnj", "count": 2}
+    ]
+  },
+  {
+    "id": "2o65l",
+    "station": "Верстак",
+    "skill": "Боеприпасы",
+    "skill_level": 5,
+    "productId": "2o65l",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "404p", "count": 3},
+      {"itemId": "vj3zg", "count": 1},
+      {"itemId": "z2om", "count": 6},
+      {"itemId": "4nnj", "count": 2}
+    ]
+  },
+  {
+    "id": "dmyd9",
+    "station": "Верстак",
+    "skill": "Боеприпасы",
+    "skill_level": 2,
+    "productId": "dmyd9",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "5n51", "count": 20},
+      {"itemId": "1dnq", "count": 1},
+      {"itemId": "5nno", "count": 20},
+      {"itemId": "gmmn", "count": 20}
+    ]
+  },
+  {
+    "id": "j5qd4",
+    "station": "Верстак",
+    "skill": "Боеприпасы",
+    "skill_level": 5,
+    "productId": "j5qd4",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "m2lr", "count": 25},
+      {"itemId": "dmyd9", "count": 1}
+    ]
+  },
+  {
+    "id": "qjlzj",
+    "station": "Верстак",
+    "skill": "Боеприпасы",
+    "skill_level": 5,
+    "productId": "qjlzj",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "dmyd9", "count": 1},
+      {"itemId": "4nnj", "count": 10}
+    ]
+  },
+  {
+    "id": "n4w7w",
+    "station": "Верстак",
+    "skill": "Боеприпасы",
+    "skill_level": 5,
+    "productId": "n4w7w",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "404p", "count": 3},
+      {"itemId": "dmyd9", "count": 1},
+      {"itemId": "l2oo", "count": 7}
+    ]
+  },
+  {
+    "id": "m0woy",
+    "station": "Верстак",
+    "skill": "Боеприпасы",
+    "skill_level": 5,
+    "productId": "m0woy",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "z719", "count": 4},
+      {"itemId": "dmyd9", "count": 1},
+      {"itemId": "l2oo", "count": 1},
+      {"itemId": "4nnj", "count": 3}
+    ]
+  },
+  {
+    "id": "2o0zm",
+    "station": "Верстак",
+    "skill": "Боеприпасы",
+    "skill_level": 3,
+    "productId": "2o0zm",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "5n51", "count": 20},
+      {"itemId": "1dnq", "count": 1},
+      {"itemId": "5nno", "count": 20},
+      {"itemId": "gmmn", "count": 20}
+    ]
+  },
+  {
+    "id": "lyrdq",
+    "station": "Верстак",
+    "skill": "Боеприпасы",
+    "skill_level": 5,
+    "productId": "lyrdq",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "1dnq", "count": 25},
+      {"itemId": "2o0zm", "count": 1}
+    ]
+  },
+  {
+    "id": "j5pr0",
+    "station": "Верстак",
+    "skill": "Боеприпасы",
+    "skill_level": 5,
+    "productId": "j5pr0",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "2o0zm", "count": 1},
+      {"itemId": "4nnj", "count": 10}
+    ]
+  },
+  {
+    "id": "5lqp1",
+    "station": "Верстак",
+    "skill": "Боеприпасы",
+    "skill_level": 5,
+    "productId": "5lqp1",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "404p", "count": 3},
+      {"itemId": "2o0zm", "count": 1},
+      {"itemId": "l2oo", "count": 7}
+    ]
+  },
+  {
+    "id": "n4691",
+    "station": "Верстак",
+    "skill": "Боеприпасы",
+    "skill_level": 5,
+    "productId": "n4691",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "wodp", "count": 1},
+      {"itemId": "y7po", "count": 1},
+      {"itemId": "2o0zm", "count": 1},
+      {"itemId": "gm2p", "count": 1}
+    ]
+  },
+  {
+    "id": "dmlwj",
+    "station": "Верстак",
+    "skill": "Боеприпасы",
+    "skill_level": 5,
+    "productId": "dmlwj",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "2o0zm", "count": 1},
+      {"itemId": "q2yj", "count": 4},
+      {"itemId": "99n0", "count": 1}
+    ]
+  },
+  {
+    "id": "194j1",
+    "station": "Верстак",
+    "skill": "Боеприпасы",
+    "skill_level": 4,
+    "productId": "194j1",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "5n51", "count": 20},
+      {"itemId": "1dnq", "count": 1},
+      {"itemId": "5nno", "count": 20},
+      {"itemId": "gmmn", "count": 20}
+    ]
+  },
+  {
+    "id": "p6kgw",
+    "station": "Верстак",
+    "skill": "Боеприпасы",
+    "skill_level": 4,
+    "productId": "p6kgw",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "y7dz", "count": 5},
+      {"itemId": "ovo4", "count": 4},
+      {"itemId": "194j1", "count": 1},
+      {"itemId": "q2yj", "count": 2}
+    ]
+  },
+  {
+    "id": "z3oln",
+    "station": "Верстак",
+    "skill": "Боеприпасы",
+    "skill_level": 5,
+    "productId": "z3oln",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "m2lr", "count": 25},
+      {"itemId": "194j1", "count": 1}
+    ]
+  },
+  {
+    "id": "n4wdw",
+    "station": "Верстак",
+    "skill": "Боеприпасы",
+    "skill_level": 3,
+    "productId": "n4wdw",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "5n51", "count": 8},
+      {"itemId": "1dnq", "count": 1},
+      {"itemId": "5nno", "count": 20},
+      {"itemId": "gmmn", "count": 20}
+    ]
+  },
+  {
+    "id": "0rlzr",
+    "station": "Верстак",
+    "skill": "Боеприпасы",
+    "skill_level": 5,
+    "productId": "0rlzr",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "404p", "count": 2},
+      {"itemId": "n4wdw", "count": 1},
+      {"itemId": "l2oo", "count": 4}
+    ]
+  },
+  {
+    "id": "3g0yl",
+    "station": "Верстак",
+    "skill": "Боеприпасы",
+    "skill_level": 5,
+    "productId": "3g0yl",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "jl44", "count": 2},
+      {"itemId": "qvm9", "count": 2},
+      {"itemId": "z7d2", "count": 2},
+      {"itemId": "n4wdw", "count": 1}
+    ]
+  },
+  {
+    "id": "2o0vl",
+    "station": "Верстак",
+    "skill": "Боеприпасы",
+    "skill_level": 3,
+    "productId": "2o0vl",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "1dnq", "count": 1},
+      {"itemId": "5n51", "count": 20},
+      {"itemId": "5nno", "count": 20},
+      {"itemId": "gmmn", "count": 20}
+    ]
+  },
+  {
+    "id": "7l1z6",
+    "station": "Верстак",
+    "skill": "Боеприпасы",
+    "skill_level": 5,
+    "productId": "7l1z6",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "2o0vl", "count": 1},
+      {"itemId": "m2lr", "count": 15},
+      {"itemId": "q2yj", "count": 2},
+      {"itemId": "4nnj", "count": 5}
+    ]
+  },
+  {
+    "id": "dmldj",
+    "station": "Верстак",
+    "skill": "Защитное снаряжение",
+    "skill_level": 1,
+    "productId": "dmldj",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "z719", "count": 10},
+      {"itemId": "999q", "count": 10}
+    ]
+  },
+  {
+    "id": "2o6zl",
+    "station": "Верстак",
+    "skill": "Защитное снаряжение",
+    "skill_level": 2,
+    "productId": "2o6zl",
+    "productCount": 2,
+    "requirements": [
+      {"itemId": "g325", "count": 10},
+      {"itemId": "q2yj", "count": 1},
+      {"itemId": "1731", "count": 1}
+    ]
+  },
+  {
+    "id": "3g05l",
+    "station": "Верстак",
+    "skill": "Защитное снаряжение",
+    "skill_level": 5,
+    "productId": "3g05l",
+    "productCount": 2,
+    "requirements": [
+      {"itemId": "zj9m", "count": 10},
+      {"itemId": "03zd", "count": 3}
+    ]
+  },
+  {
+    "id": "96qjl",
+    "station": "Верстак",
+    "skill": "Защитное снаряжение",
+    "skill_level": 1,
+    "productId": "96qjl",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "ovo4", "count": 10},
+      {"itemId": "4nkr", "count": 3},
+      {"itemId": "999q", "count": 10}
+    ]
+  },
+  {
+    "id": "1r0gg",
+    "station": "Верстак",
+    "skill": "Защитное снаряжение",
+    "skill_level": 2,
+    "productId": "1r0gg",
+    "productCount": 2,
+    "requirements": [
+      {"itemId": "rg5y", "count": 10},
+      {"itemId": "m2lr", "count": 1},
+      {"itemId": "1731", "count": 1}
+    ]
+  },
+  {
+    "id": "g4rd6",
+    "station": "Верстак",
+    "skill": "Защитное снаряжение",
+    "skill_level": 5,
+    "productId": "g4rd6",
+    "productCount": 2,
+    "requirements": [
+      {"itemId": "0ngy", "count": 10},
+      {"itemId": "03zd", "count": 3}
+    ]
+  },
+  {
+    "id": "wjn52",
+    "station": "Верстак",
+    "skill": "Защитное снаряжение",
+    "skill_level": 4,
+    "productId": "wjn52",
+    "productCount": 2,
+    "requirements": [
+      {"itemId": "ovo4", "count": 4},
+      {"itemId": "999q", "count": 10},
+      {"itemId": "99n0", "count": 1}
+    ]
+  },
+  {
+    "id": "4qzyr",
+    "station": "Верстак",
+    "skill": "Защитное снаряжение",
+    "skill_level": 5,
+    "productId": "4qzyr",
+    "productCount": 2,
+    "requirements": [
+      {"itemId": "ovo4", "count": 3},
+      {"itemId": "999q", "count": 10},
+      {"itemId": "99n0", "count": 1},
+      {"itemId": "1731", "count": 2}
+    ]
+  },
+  {
+    "id": "7l4q6",
+    "station": "Верстак",
+    "skill": "Пиротехника",
+    "skill_level": 1,
+    "productId": "7l4q6",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "9mmq", "count": 1},
+      {"itemId": "vrld", "count": 10},
+      {"itemId": "w732", "count": 1},
+      {"itemId": "1d56", "count": 1},
+      {"itemId": "jon0", "count": 10}
+    ]
+  },
+  {
+    "id": "nvpw",
+    "station": "Верстак",
+    "skill": "Пиротехника",
+    "skill_level": 2,
+    "productId": "nvpw",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "5n51", "count": 1},
+      {"itemId": "km6y", "count": 1}
+    ]
+  },
+  {
+    "id": "6wmkp",
+    "station": "Верстак",
+    "skill": "Пиротехника",
+    "skill_level": 2,
+    "productId": "6wmkp",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "vrld", "count": 10},
+      {"itemId": "1d56", "count": 10},
+      {"itemId": "4nnj", "count": 1}
+    ]
+  },
+  {
+    "id": "96qll",
+    "station": "Верстак",
+    "skill": "Пиротехника",
+    "skill_level": 3,
+    "productId": "96qll",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "vrld", "count": 10},
+      {"itemId": "5n51", "count": 1},
+      {"itemId": "q224", "count": 1},
+      {"itemId": "4nkr", "count": 1}
+    ]
+  },
+  {
+    "id": "wjnq2",
+    "station": "Верстак",
+    "skill": "Пиротехника",
+    "skill_level": 4,
+    "productId": "wjnq2",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "vrld", "count": 10},
+      {"itemId": "1d56", "count": 10},
+      {"itemId": "z29n", "count": 1}
+    ]
+  },
+  {
+    "id": "y31lk",
+    "station": "Верстак",
+    "skill": "Пиротехника",
+    "skill_level": 4,
+    "productId": "y31lk",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "vrld", "count": 10},
+      {"itemId": "1d56", "count": 10},
+      {"itemId": "gm2p", "count": 1}
+    ]
+  },
+  {
+    "id": "n46d1",
+    "station": "Верстак",
+    "skill": "Пиротехника",
+    "skill_level": 5,
+    "productId": "n46d1",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "1r0y6", "count": 10},
+      {"itemId": "wo2d", "count": 3},
+      {"itemId": "y7po", "count": 3},
+      {"itemId": "kmmj", "count": 1}
+    ]
+  },
+  {
+    "id": "j5pd0",
+    "station": "Верстак",
+    "skill": "Пиротехника",
+    "skill_level": 5,
+    "productId": "j5pd0",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "g4rz0", "count": 10},
+      {"itemId": "wodp", "count": 4},
+      {"itemId": "y7po", "count": 4},
+      {"itemId": "z29n", "count": 3}
+    ]
+  },
+  {
+    "id": "knydy",
+    "station": "Верстак",
+    "skill": "Пиротехника",
+    "skill_level": 5,
+    "productId": "knydy",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "1r0y6", "count": 10},
+      {"itemId": "nvpw", "count": 6},
+      {"itemId": "y7po", "count": 14},
+      {"itemId": "z2om", "count": 13}
+    ]
+  },
+  {
+    "id": "qjl6j",
+    "station": "Верстак",
+    "skill": "Пиротехника",
+    "skill_level": 5,
+    "productId": "qjl6j",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "g4rz0", "count": 10},
+      {"itemId": "wodp", "count": 4},
+      {"itemId": "nvpw", "count": 6},
+      {"itemId": "y7po", "count": 5}
+    ]
+  },
+  {
+    "id": "lywdk",
+    "station": "Верстак",
+    "skill": "Пиротехника",
+    "skill_level": 5,
+    "productId": "lywdk",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "g4rz0", "count": 10},
+      {"itemId": "y7po", "count": 2},
+      {"itemId": "l2oo", "count": 1},
+      {"itemId": "z2om", "count": 6}
+    ]
+  },
+  {
+    "id": "m0wdy",
+    "station": "Верстак",
+    "skill": "Пиротехника",
+    "skill_level": 5,
+    "productId": "m0wdy",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "1r0y6", "count": 10},
+      {"itemId": "y7po", "count": 4},
+      {"itemId": "km9v", "count": 2},
+      {"itemId": "r22z", "count": 1}
+    ]
+  },
+  {
+    "id": "1r0zg",
+    "station": "Верстак",
+    "skill": "Пиротехника",
+    "skill_level": 4,
+    "productId": "1r0zg",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "vrld", "count": 10},
+      {"itemId": "w732", "count": 4},
+      {"itemId": "q224", "count": 1}
+    ]
+  },
+  {
+    "id": "g4rq6",
+    "station": "Верстак",
+    "skill": "Пиротехника",
+    "skill_level": 4,
+    "productId": "g4rq6",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "vrld", "count": 10},
+      {"itemId": "5n51", "count": 4},
+      {"itemId": "4nnj", "count": 1}
+    ]
+  },
+  {
+    "id": "zzgry",
+    "station": "Верстак",
+    "skill": "Пиротехника",
+    "skill_level": 4,
+    "productId": "zzgry",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "vrld", "count": 10},
+      {"itemId": "q224", "count": 1},
+      {"itemId": "jon0", "count": 4}
+    ]
+  },
+  {
+    "id": "5lq41",
+    "station": "Верстак",
+    "skill": "Пиротехника",
+    "skill_level": 4,
+    "productId": "5lq41",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "vrld", "count": 10},
+      {"itemId": "4nnj", "count": 1},
+      {"itemId": "4nkr", "count": 4}
+    ]
+  },
+  {
+    "id": "wwod",
+    "station": "Верстак",
+    "skill": "Пиротехника",
+    "skill_level": 5,
+    "productId": "wwod",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "1r0y6", "count": 5},
+      {"itemId": "q2yj", "count": 1},
+      {"itemId": "4nnj", "count": 3}
+    ]
+  },
+  {
+    "id": "gmn6",
+    "station": "Верстак",
+    "skill": "Боеприпасы",
+    "skill_level": 1,
+    "productId": "gmn6",
+    "productCount": 20,
+    "requirements": [
+      {"itemId": "prm6", "count": 1},
+      {"itemId": "z719", "count": 1}
+    ]
+  },
+  {
+    "id": "gmmn",
+    "station": "Верстак",
+    "skill": "Боеприпасы",
+    "skill_level": 1,
+    "productId": "gmmn",
+    "productCount": 20,
+    "requirements": [
+      {"itemId": "g05g", "count": 20},
+      {"itemId": "404p", "count": 2}
+    ]
+  },
+  {
+    "id": "z22k",
+    "station": "Верстак",
+    "skill": "Боеприпасы",
+    "skill_level": 1,
+    "productId": "z22k",
+    "productCount": 20,
+    "requirements": [
+      {"itemId": "gmn6", "count": 20},
+      {"itemId": "y79w", "count": 3},
+      {"itemId": "404p", "count": 1},
+      {"itemId": "kl70", "count": 1}
+    ]
+  },
+  {
+    "id": "5nno",
+    "station": "Верстак",
+    "skill": "Боеприпасы",
+    "skill_level": 2,
+    "productId": "5nno",
+    "productCount": 20,
+    "requirements": [
+      {"itemId": "y79w", "count": 3},
+      {"itemId": "404p", "count": 1},
+      {"itemId": "z22k", "count": 20}
+    ]
+  },
+  {
+    "id": "z2om_a",
+    "station": "Верстак",
+    "skill": "Пиротехника",
+    "skill_level": 1,
+    "productId": "z2om",
+    "productCount": 20,
+    "requirements": [
+      {"itemId": "5n51", "count": 1},
+      {"itemId": "9mgw", "count": 1},
+      {"itemId": "w732", "count": 1}
+    ]
+  },
+  {
+    "id": "z2om_b",
+    "station": "Верстак",
+    "skill": "Пиротехника",
+    "skill_level": 1,
+    "productId": "z2om",
+    "productCount": 40,
+    "requirements": [
+      {"itemId": "5n51", "count": 2},
+      {"itemId": "009n9", "count": 1},
+      {"itemId": "w732", "count": 2}
+    ]
+  },
+  {
+    "id": "prp5",
+    "station": "Верстак",
+    "skill": "Сырьё и материалы",
+    "skill_level": 1,
+    "productId": "prp5",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "dqg5", "count": 3}
+    ]
+  },
+  {
+    "id": "2nw5",
+    "station": "Верстак",
+    "skill": "Сырьё и материалы",
+    "skill_level": 3,
+    "productId": "2nw5",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "q2yj", "count": 1},
+      {"itemId": "lll2", "count": 10}
+    ]
+  },
+  {
+    "id": "wokd",
+    "station": "Верстак",
+    "skill": "Сырьё и материалы",
+    "skill_level": 2,
+    "productId": "wokd",
+    "productCount": 3,
+    "requirements": [
+      {"itemId": "prp5", "count": 1},
+      {"itemId": "klq0", "count": 1}
+    ]
+  },
+  {
+    "id": "vrld",
+    "station": "Верстак",
+    "skill": "Инженерия",
+    "skill_level": 1,
+    "productId": "vrld",
+    "productCount": 3,
+    "requirements": [
+      {"itemId": "jl77", "count": 1}
+    ]
+  },
+  {
+    "id": "wogp",
+    "station": "Верстак",
+    "skill": "Инженерия",
+    "skill_level": 1,
+    "productId": "wogp",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "g0gp", "count": 1}
+    ]
+  },
+  {
+    "id": "g060",
+    "station": "Верстак",
+    "skill": "Инженерия",
+    "skill_level": 1,
+    "productId": "g060",
+    "productCount": 10,
+    "requirements": [
+      {"itemId": "z7pn", "count": 2},
+      {"itemId": "jl77", "count": 1}
+    ]
+  },
+  {
+    "id": "40rl",
+    "station": "Верстак",
+    "skill": "Инженерия",
+    "skill_level": 1,
+    "productId": "40rl",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "rwow5", "count": 1},
+      {"itemId": "wogp", "count": 2}
+    ]
+  },
+  {
+    "id": "1d56",
+    "station": "Верстак",
+    "skill": "Инженерия",
+    "skill_level": 1,
+    "productId": "1d56",
+    "productCount": 10,
+    "requirements": [
+      {"itemId": "g0gp", "count": 1}
+    ]
+  },
+  {
+    "id": "03p1_a",
+    "station": "Верстак",
+    "skill": "Инженерия",
+    "skill_level": 2,
+    "productId": "03p1",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "klq0", "count": 2},
+      {"itemId": "jl77", "count": 5}
+    ]
+  },
+  {
+    "id": "03p1_b",
+    "station": "Верстак",
+    "skill": "Инженерия",
+    "skill_level": 2,
+    "productId": "03p1",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "jl77", "count": 5},
+      {"itemId": "y263", "count": 2}
+    ]
+  },
+  {
+    "id": "9mgw",
+    "station": "Верстак",
+    "skill": "Инженерия",
+    "skill_level": 2,
+    "productId": "9mgw",
+    "productCount": 3,
+    "requirements": [
+      {"itemId": "g0gp", "count": 5},
+      {"itemId": "404p", "count": 2}
+    ]
+  },
+  {
+    "id": "jl66_a",
+    "station": "Верстак",
+    "skill": "Инженерия",
+    "skill_level": 2,
+    "productId": "jl66",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "z7pn", "count": 3},
+      {"itemId": "rr45", "count": 1},
+      {"itemId": "03p1", "count": 1}
+    ]
+  },
+  {
+    "id": "dj92",
+    "station": "Верстак",
+    "skill": "Инженерия",
+    "skill_level": 2,
+    "productId": "dj92",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "qvwk", "count": 1},
+      {"itemId": "z719", "count": 3},
+      {"itemId": "wogp", "count": 1}
+    ]
+  },
+  {
+    "id": "1dnq",
+    "station": "Верстак",
+    "skill": "Инженерия",
+    "skill_level": 2,
+    "productId": "1dnq",
+    "productCount": 6,
+    "requirements": [
+      {"itemId": "z7pn", "count": 3},
+      {"itemId": "g060", "count": 1}
+    ]
+  },
+  {
+    "id": "nmj1",
+    "station": "Верстак",
+    "skill": "Инженерия",
+    "skill_level": 3,
+    "productId": "nmj1",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "jl77", "count": 5},
+      {"itemId": "wokd", "count": 1}
+    ]
+  },
+  {
+    "id": "om46",
+    "station": "Верстак",
+    "skill": "Инженерия",
+    "skill_level": 3,
+    "productId": "om46",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "jl77", "count": 4},
+      {"itemId": "z719", "count": 6}
+    ]
+  },
+  {
+    "id": "999q",
+    "station": "Верстак",
+    "skill": "Инженерия",
+    "skill_level": 3,
+    "productId": "999q",
+    "productCount": 2,
+    "requirements": [
+      {"itemId": "z7pn", "count": 1},
+      {"itemId": "g060", "count": 1},
+      {"itemId": "q2p3", "count": 1}
+    ]
+  },
+  {
+    "id": "nmo2",
+    "station": "Верстак",
+    "skill": "Инженерия",
+    "skill_level": 3,
+    "productId": "nmo2",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "qvm9", "count": 6},
+      {"itemId": "nmj1", "count": 1}
+    ]
+  },
+  {
+    "id": "99dl",
+    "station": "Верстак",
+    "skill": "Инженерия",
+    "skill_level": 3,
+    "productId": "99dl",
+    "productCount": 7,
+    "requirements": [
+      {"itemId": "z719", "count": 3},
+      {"itemId": "ovo4", "count": 3}
+    ]
+  },
+  {
+    "id": "p3vw",
+    "station": "Верстак",
+    "skill": "Инженерия",
+    "skill_level": 3,
+    "productId": "p3vw",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "wodp", "count": 3},
+      {"itemId": "y7rw", "count": 1},
+      {"itemId": "wokd", "count": 1}
+    ]
+  },
+  {
+    "id": "q2wk",
+    "station": "Верстак",
+    "skill": "Инженерия",
+    "skill_level": 3,
+    "productId": "q2wk",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "nmo2", "count": 6},
+      {"itemId": "2nw5", "count": 3},
+      {"itemId": "022k", "count": 2}
+    ]
+  },
+  {
+    "id": "022k",
+    "station": "Верстак",
+    "skill": "Инженерия",
+    "skill_level": 3,
+    "productId": "022k",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "nmo2", "count": 1},
+      {"itemId": "wokd", "count": 3},
+      {"itemId": "99dl", "count": 1}
+    ]
+  },
+  {
+    "id": "2d56",
+    "station": "Верстак",
+    "skill": "Инженерия",
+    "skill_level": 4,
+    "productId": "2d56",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "jl77", "count": 12},
+      {"itemId": "wokd", "count": 5},
+      {"itemId": "99dl", "count": 3},
+      {"itemId": "5njq", "count": 5}
+    ]
+  },
+  {
+    "id": "mmmk",
+    "station": "Верстак",
+    "skill": "Инженерия",
+    "skill_level": 5,
+    "productId": "mmmk",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "jl26", "count": 5},
+      {"itemId": "nmo2", "count": 1}
+    ]
+  },
+  {
+    "id": "rwow5_a",
+    "station": "Верстак",
+    "skill": "Сырьё и материалы",
+    "skill_level": 1,
+    "productId": "rwow5",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "pry2", "count": 1}
+    ]
+  },
+  {
+    "id": "pry2_a",
+    "station": "Верстак",
+    "skill": "Сырьё и материалы",
+    "skill_level": 1,
+    "productId": "pry2",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "rwow5", "count": 1}
+    ]
+  },
+  {
+    "id": "9mr0",
+    "station": "Верстак",
+    "skill": "Сырьё и материалы",
+    "skill_level": 1,
+    "productId": "9mr0",
+    "productCount": 50,
+    "requirements": [
+      {"itemId": "jl26", "count": 1}
+    ]
+  },
+  {
+    "id": "jl26_a",
+    "station": "Верстак",
+    "skill": "Сырьё и материалы",
+    "skill_level": 1,
+    "productId": "jl26",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "pry2", "count": 5},
+      {"itemId": "m22k", "count": 10}
+    ]
+  },
+  {
+    "id": "pry2_b",
+    "station": "Верстак",
+    "skill": "Сырьё и материалы",
+    "skill_level": 2,
+    "productId": "pry2",
+    "productCount": 4,
+    "requirements": [
+      {"itemId": "jl26", "count": 1}
+    ]
+  },
+  {
+    "id": "ll41",
+    "station": "Верстак",
+    "skill": "Сырьё и материалы",
+    "skill_level": 2,
+    "productId": "ll41",
+    "productCount": 3,
+    "requirements": [
+      {"itemId": "qvwk", "count": 1},
+      {"itemId": "jl26", "count": 1}
+    ]
+  },
+  {
+    "id": "jl66_b",
+    "station": "Верстак",
+    "skill": "Сырьё и материалы",
+    "skill_level": 3,
+    "productId": "jl66",
+    "productCount": 20,
+    "requirements": [
+      {"itemId": "z7pn", "count": 5},
+      {"itemId": "404p", "count": 10},
+      {"itemId": "gnpr5", "count": 1}
+    ]
+  },
+  {
+    "id": "jl26_b",
+    "station": "Верстак",
+    "skill": "Сырьё и материалы",
+    "skill_level": 3,
+    "productId": "jl26",
+    "productCount": 15,
+    "requirements": [
+      {"itemId": "5lo3o", "count": 5}
+    ]
+  },
+  {
+    "id": "401j_a",
+    "station": "Верстак",
+    "skill": "Инженерия",
+    "skill_level": 1,
+    "productId": "401j",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "77ov6", "count": 4},
+      {"itemId": "wo6z", "count": 1}
+    ]
+  },
+  {
+    "id": "401j_b",
+    "station": "Верстак",
+    "skill": "Инженерия",
+    "skill_level": 1,
+    "productId": "401j",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "9d1qy", "count": 1},
+      {"itemId": "wo6z", "count": 1}
+    ]
+  },
+  {
+    "id": "401j_c",
+    "station": "Верстак",
+    "skill": "Инженерия",
+    "skill_level": 1,
+    "productId": "401j",
+    "productCount": 5,
+    "requirements": [
+      {"itemId": "gn975", "count": 1},
+      {"itemId": "wo6z", "count": 5}
+    ]
+  },
+  {
+    "id": "5dm4",
+    "station": "Верстак",
+    "skill": "Инженерия",
+    "skill_level": 2,
+    "productId": "5dm4",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "m2g7", "count": 5},
+      {"itemId": "40lp", "count": 5},
+      {"itemId": "np0w", "count": 3}
+    ]
+  },
+  {
+    "id": "40lp_a",
+    "station": "Верстак",
+    "skill": "Инженерия",
+    "skill_level": 2,
+    "productId": "40lp",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "77w9j", "count": 5},
+      {"itemId": "19on2", "count": 5},
+      {"itemId": "9d3gy", "count": 5},
+      {"itemId": "g05g", "count": 2}
+    ]
+  },
+  {
+    "id": "40lp_b",
+    "station": "Верстак",
+    "skill": "Инженерия",
+    "skill_level": 1,
+    "productId": "40lp",
+    "productCount": 5,
+    "requirements": [
+      {"itemId": "77oy6", "count": 5}
+    ]
+  },
+  {
+    "id": "z7m9",
+    "station": "Верстак",
+    "skill": "Инженерия",
+    "skill_level": 2,
+    "productId": "z7m9",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "ll11", "count": 10},
+      {"itemId": "m2g7", "count": 2},
+      {"itemId": "40lp", "count": 5},
+      {"itemId": "g05g", "count": 2}
+    ]
+  },
+  {
+    "id": "v25p_a",
+    "station": "Верстак",
+    "skill": "Инженерия",
+    "skill_level": 2,
+    "productId": "v25p",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "9dk7y", "count": 3}
+    ]
+  },
+  {
+    "id": "mm4y_a",
+    "station": "Верстак",
+    "skill": "Инженерия",
+    "skill_level": 2,
+    "productId": "mm4y",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "55olq", "count": 5}
+    ]
+  },
+  {
+    "id": "0279",
+    "station": "Верстак",
+    "skill": "Инженерия",
+    "skill_level": 3,
+    "productId": "0279",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "ll11", "count": 3},
+      {"itemId": "m2g7", "count": 2},
+      {"itemId": "5dm4", "count": 3},
+      {"itemId": "40lp", "count": 3},
+      {"itemId": "om46", "count": 1}
+    ]
+  },
+  {
+    "id": "y7rw",
+    "station": "Верстак",
+    "skill": "Инженерия",
+    "skill_level": 3,
+    "productId": "y7rw",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "ll11", "count": 3},
+      {"itemId": "rr7g", "count": 5},
+      {"itemId": "40lp", "count": 3},
+      {"itemId": "om46", "count": 1}
+    ]
+  },
+  {
+    "id": "v25p_b",
+    "station": "Верстак",
+    "skill": "Инженерия",
+    "skill_level": 3,
+    "productId": "v25p",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "z7m9", "count": 3},
+      {"itemId": "5dm4", "count": 2},
+      {"itemId": "40lp", "count": 6},
+      {"itemId": "mm4y", "count": 3},
+      {"itemId": "5njq", "count": 5}
+    ]
+  },
+  {
+    "id": "mm4y_b",
+    "station": "Верстак",
+    "skill": "Инженерия",
+    "skill_level": 3,
+    "productId": "mm4y",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "ll11", "count": 3},
+      {"itemId": "z719", "count": 5},
+      {"itemId": "035r", "count": 2},
+      {"itemId": "40lp", "count": 3}
+    ]
+  }, 
+  {
+    "id": "p3o4",
+    "station": "Верстак",
+    "skill": "Инженерия",
+    "skill_level": 3,
+    "productId": "p3o4",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "jl77", "count": 5},
+      {"itemId": "2d56", "count": 8}
+    ]
+  },
+  {
+    "id": "om6m",
+    "station": "Верстак",
+    "skill": "Инженерия",
+    "skill_level": 4,
+    "productId": "om6m",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "np0w", "count": 3},
+      {"itemId": "mm4y", "count": 1},
+      {"itemId": "0279", "count": 1},
+      {"itemId": "om46", "count": 1},
+      {"itemId": "lll2", "count": 10}
+    ]
+  }, 
+  {
+    "id": "00w01",
+    "station": "Верстак",
+    "skill": "Инженерия",
+    "skill_level": 2,
+    "productId": "00w01",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "q2yj", "count": 3},
+      {"itemId": "jl77", "count": 3},
+      {"itemId": "wokd", "count": 1}
+    ]
+  }, 
+  {
+    "id": "pjkj2",
+    "station": "Верстак",
+    "skill": "Инженерия",
+    "skill_level": 3,
+    "productId": "pjkj2",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "jl77", "count": 8},
+      {"itemId": "dqn9", "count": 20},
+      {"itemId": "nmj1", "count": 8},
+      {"itemId": "q2yj", "count": 9},
+      {"itemId": "wokd", "count": 2}
+    ]
+  }, 
+  {
+    "id": "mrwr7",
+    "station": "Верстак",
+    "skill": "Инженерия",
+    "skill_level": 4,
+    "productId": "mrwr7",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "jl77", "count": 3},
+      {"itemId": "jl66", "count": 2},
+      {"itemId": "jl26", "count": 10},
+      {"itemId": "nmo2", "count": 1},
+      {"itemId": "wokd", "count": 1}
+    ]
+  }, 
+  {
+    "id": "vnqnd",
+    "station": "Верстак",
+    "skill": "Инженерия",
+    "skill_level": 4,
+    "productId": "vnqnd",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "jl26", "count": 15},
+      {"itemId": "dqn9", "count": 25},
+      {"itemId": "nmo2", "count": 2},
+      {"itemId": "nmj1", "count": 3},
+      {"itemId": "wokd", "count": 1}
+    ]
+  },
+  {
+    "id": "7rm3",
+    "station": "Кухонный стол",
+    "skill": "Кулинария",
+    "skill_level": 1,
+    "productId": "7rm3",
+    "productCount": 5,
+    "requirements": [
+      {"itemId": "2d76", "count": 1},
+      {"itemId": "9mmq", "count": 5},
+      {"itemId": "rrrz", "count": 10}
+    ]
+  },
+  {
+    "id": "3r6z",
+    "station": "Кухонный стол",
+    "skill": "Кулинария",
+    "skill_level": 1,
+    "productId": "3r6z",
+    "productCount": 5,
+    "requirements": [
+      {"itemId": "dq0n", "count": 1},
+      {"itemId": "9mmq", "count": 5},
+      {"itemId": "rrrz", "count": 10}
+    ]
+  },
+  {
+    "id": "2dq0",
+    "station": "Кухонный стол",
+    "skill": "Кулинария",
+    "skill_level": 1,
+    "productId": "2dq0",
+    "productCount": 5,
+    "requirements": [
+      {"itemId": "vrpd", "count": 1},
+      {"itemId": "9mmq", "count": 5},
+      {"itemId": "rrrz", "count": 10}
+    ]
+  },
+  {
+    "id": "z7y2",
+    "station": "Кухонный стол",
+    "skill": "Кулинария",
+    "skill_level": 1,
+    "productId": "z7y2",
+    "productCount": 5,
+    "requirements": [
+      {"itemId": "6rpy", "count": 10},
+      {"itemId": "7rp7", "count": 2},
+      {"itemId": "rrrz", "count": 10},
+      {"itemId": "q03dj", "count": 10}
+    ]
+  },
+  {
+    "id": "g0y0",
+    "station": "Кухонный стол",
+    "skill": "Кулинария",
+    "skill_level": 1,
+    "productId": "g0y0",
+    "productCount": 3,
+    "requirements": [
+      {"itemId": "9mmq", "count": 8},
+      {"itemId": "rrrz", "count": 10},
+      {"itemId": "6rpy", "count": 1},
+      {"itemId": "g00n", "count": 3}
+    ]
+  },
+  {
+    "id": "dqg5_a",
+    "station": "Кухонный стол",
+    "skill": "Кулинария",
+    "skill_level": 1,
+    "productId": "dqg5",
+    "productCount": 3,
+    "requirements": [
+      {"itemId": "2d76", "count": 1}
+    ]
+  },
+  {
+    "id": "dqg5_b",
+    "station": "Кухонный стол",
+    "skill": "Кулинария",
+    "skill_level": 1,
+    "productId": "dqg5",
+    "productCount": 3,
+    "requirements": [
+      {"itemId": "dq0n", "count": 1}
+    ]
+  },
+  {
+    "id": "dqg5_c",
+    "station": "Кухонный стол",
+    "skill": "Кулинария",
+    "skill_level": 1,
+    "productId": "dqg5",
+    "productCount": 3,
+    "requirements": [
+      {"itemId": "vrpd", "count": 1}
+    ]
+  },
+  {
+    "id": "y7mo",
+    "station": "Кухонный стол",
+    "skill": "Кулинария",
+    "skill_level": 2,
+    "productId": "y7mo",
+    "productCount": 5,
+    "requirements": [
+      {"itemId": "rwow5", "count": 1},
+      {"itemId": "6rn6", "count": 3},
+      {"itemId": "6r0j", "count": 1},
+      {"itemId": "404p", "count": 1}
+    ]
+  },
+  {
+    "id": "qjmjk",
+    "station": "Кухонный стол",
+    "skill": "Кулинария",
+    "skill_level": 2,
+    "productId": "qjmjk",
+    "productCount": 4,
+    "requirements": [
+      {"itemId": "g02p", "count": 3},
+      {"itemId": "5n51", "count": 1},
+      {"itemId": "1dk6", "count": 2},
+      {"itemId": "q03dj", "count": 15}
+    ]
+  },
+  {
+    "id": "wj2no",
+    "station": "Кухонный стол",
+    "skill": "Кулинария",
+    "skill_level": 3,
+    "productId": "wj2no",
+    "productCount": 3,
+    "requirements": [
+      {"itemId": "kl9v", "count": 2},
+      {"itemId": "rr05", "count": 1},
+      {"itemId": "6rn6", "count": 2},
+      {"itemId": "1dk6", "count": 1},
+      {"itemId": "q03dj", "count": 5}
+    ]
+  },
+  {
+    "id": "qjmlk",
+    "station": "Кухонный стол",
+    "skill": "Кулинария",
+    "skill_level": 3,
+    "productId": "qjmlk",
+    "productCount": 8,
+    "requirements": [
+      {"itemId": "96gqz", "count": 8},
+      {"itemId": "dm1ln", "count": 1}
+    ]
+  },
+  {
+    "id": "ly6w1",
+    "station": "Кухонный стол",
+    "skill": "Кулинария",
+    "skill_level": 3,
+    "productId": "ly6w1",
+    "productCount": 4,
+    "requirements": [
+      {"itemId": "1rn01", "count": 4},
+      {"itemId": "y391o", "count": 2},
+      {"itemId": "dqg5", "count": 1}
+    ]
+  },
+  {
+    "id": "y391o",
+    "station": "Кухонный стол",
+    "skill": "Кулинария",
+    "skill_level": 3,
+    "productId": "y391o",
+    "productCount": 20,
+    "requirements": [
+      {"itemId": "2dkm", "count": 2},
+      {"itemId": "3rjk", "count": 2},
+      {"itemId": "7rvr", "count": 2},
+      {"itemId": "1dk6", "count": 1},
+      {"itemId": "dqg5", "count": 1}
+    ]
+  },
+  {
+    "id": "rwol5",
+    "station": "Кухонный стол",
+    "skill": "Кулинария",
+    "skill_level": 3,
+    "productId": "rwol5",
+    "productCount": 10,
+    "requirements": [
+      {"itemId": "1d31", "count": 3},
+      {"itemId": "vrld", "count": 5},
+      {"itemId": "z7y2", "count": 5},
+      {"itemId": "q03dj", "count": 10}
+    ]
+  },
+  {
+    "id": "okrq0",
+    "station": "Кухонный стол",
+    "skill": "Кулинария",
+    "skill_level": 3,
+    "productId": "okrq0",
+    "productCount": 5,
+    "requirements": [
+      {"itemId": "vrld", "count": 5},
+      {"itemId": "2dkm", "count": 1},
+      {"itemId": "3rjk", "count": 1}
+    ]
+  },
+  {
+    "id": "0row1",
+    "station": "Кухонный стол",
+    "skill": "Кулинария",
+    "skill_level": 3,
+    "productId": "0row1",
+    "productCount": 3,
+    "requirements": [
+      {"itemId": "9mn0", "count": 1},
+      {"itemId": "vrld", "count": 1},
+      {"itemId": "rwow5", "count": 1}
+    ]
+  },
+  {
+    "id": "n4l63",
+    "station": "Кухонный стол",
+    "skill": "Кулинария",
+    "skill_level": 3,
+    "productId": "n4l63",
+    "productCount": 5,
+    "requirements": [
+      {"itemId": "z7y2", "count": 2},
+      {"itemId": "0row1", "count": 1},
+      {"itemId": "1dk6", "count": 1},
+      {"itemId": "404p", "count": 1}
+    ]
+  },
+  {
+    "id": "j5456",
+    "station": "Кухонный стол",
+    "skill": "Кулинария",
+    "skill_level": 3,
+    "productId": "j5456",
+    "productCount": 4,
+    "requirements": [
+      {"itemId": "vrld", "count": 3},
+      {"itemId": "okrq0", "count": 1},
+      {"itemId": "1dk6", "count": 1},
+      {"itemId": "y391o", "count": 1},
+      {"itemId": "dqg5", "count": 1}
+    ]
+  },
+  {
+    "id": "m0jw7",
+    "station": "Кухонный стол",
+    "skill": "Кулинария",
+    "skill_level": 3,
+    "productId": "m0jw7",
+    "productCount": 5,
+    "requirements": [
+      {"itemId": "vrld", "count": 2},
+      {"itemId": "0row1", "count": 1},
+      {"itemId": "1dk6", "count": 5},
+      {"itemId": "q03dj", "count": 10}
+    ]
+  },
+  {
+    "id": "3gvgg",
+    "station": "Кухонный стол",
+    "skill": "Кулинария",
+    "skill_level": 4,
+    "productId": "3gvgg",
+    "productCount": 6,
+    "requirements": [
+      {"itemId": "1rl4r", "count": 1},
+      {"itemId": "vrld", "count": 1},
+      {"itemId": "2dkm", "count": 1},
+      {"itemId": "y391o", "count": 1},
+      {"itemId": "q03dj", "count": 5}
+    ]
+  },
+  {
+    "id": "3g12z",
+    "station": "Кухонный стол",
+    "skill": "Кулинария",
+    "skill_level": 4,
+    "productId": "3g12z",
+    "productCount": 15,
+    "requirements": [
+      {"itemId": "z7y2", "count": 6},
+      {"itemId": "404p", "count": 1},
+      {"itemId": "j5456", "count": 1},
+      {"itemId": "ovj0", "count": 1}
+    ]
+  },
+  {
+    "id": "dm165",
+    "station": "Кухонный стол",
+    "skill": "Кулинария",
+    "skill_level": 4,
+    "productId": "dm165",
+    "productCount": 3,
+    "requirements": [
+      {"itemId": "rwow5", "count": 1},
+      {"itemId": "y7mo", "count": 2},
+      {"itemId": "1dk6", "count": 1},
+      {"itemId": "j5456", "count": 2}
+    ]
+  },
+  {
+    "id": "n4lg6",
+    "station": "Кухонный стол",
+    "skill": "Кулинария",
+    "skill_level": 4,
+    "productId": "n4lg6",
+    "productCount": 3,
+    "requirements": [
+      {"itemId": "5dp0", "count": 2},
+      {"itemId": "rwow5", "count": 1},
+      {"itemId": "404p", "count": 1},
+      {"itemId": "j5456", "count": 1}
+    ]
+  },
+  {
+    "id": "zz1o2",
+    "station": "Кухонный стол",
+    "skill": "Кулинария",
+    "skill_level": 4,
+    "productId": "zz1o2",
+    "productCount": 2,
+    "requirements": [
+      {"itemId": "rwow5", "count": 2},
+      {"itemId": "rwol5", "count": 3},
+      {"itemId": "404p", "count": 1},
+      {"itemId": "m0jw7", "count": 2}
+    ]
+  },
+  {
+    "id": "7l9l7",
+    "station": "Кухонный стол",
+    "skill": "Кулинария",
+    "skill_level": 4,
+    "productId": "7l9l7",
+    "productCount": 5,
+    "requirements": [
+      {"itemId": "1dk6", "count": 1},
+      {"itemId": "y7dz", "count": 1},
+      {"itemId": "j5456", "count": 2},
+      {"itemId": "5lo3o", "count": 1}
+    ]
+  },
+  {
+    "id": "vjdqd",
+    "station": "Кухонный стол",
+    "skill": "Кулинария",
+    "skill_level": 5,
+    "productId": "vjdqd",
+    "productCount": 7,
+    "requirements": [
+      {"itemId": "g0y0", "count": 3},
+      {"itemId": "y391o", "count": 3},
+      {"itemId": "qjmjk", "count": 3},
+      {"itemId": "1dk6", "count": 2},
+      {"itemId": "m2k7", "count": 10}
+    ]
+  },
+  {
+    "id": "y39yz_a",
+    "station": "Кухонный стол",
+    "skill": "Кулинария",
+    "skill_level": 5,
+    "productId": "y39yz",
+    "productCount": 6,
+    "requirements": [
+      {"itemId": "rwow5", "count": 3},
+      {"itemId": "wj2no", "count": 2},
+      {"itemId": "404p", "count": 1},
+      {"itemId": "p6056", "count": 4}
+    ]
+  },
+  {
+    "id": "y39yz_b",
+    "station": "Кухонный стол",
+    "skill": "Кулинария",
+    "skill_level": 5,
+    "productId": "y39yz",
+    "productCount": 5,
+    "requirements": [
+      {"itemId": "rwow5", "count": 4},
+      {"itemId": "z7y2", "count": 4},
+      {"itemId": "404p", "count": 1},
+      {"itemId": "p6056", "count": 4}
+    ]
+  },
+  {
+    "id": "2opg0",
+    "station": "Кухонный стол",
+    "skill": "Кулинария",
+    "skill_level": 5,
+    "productId": "2opg0",
+    "productCount": 5,
+    "requirements": [
+      {"itemId": "0rl9k", "count": 1},
+      {"itemId": "wjwzp", "count": 1},
+      {"itemId": "qjmjk", "count": 3},
+      {"itemId": "dm165", "count": 3}
+    ]
+  },
+  {
+    "id": "p6056",
+    "station": "Кухонный стол",
+    "skill": "Кулинария",
+    "skill_level": 5,
+    "productId": "p6056",
+    "productCount": 2,
+    "requirements": [
+      {"itemId": "qjmjk", "count": 2},
+      {"itemId": "1dk6", "count": 1},
+      {"itemId": "j5456", "count": 2}
+    ]
+  },
+  {
+    "id": "4qdqn",
+    "station": "Кухонный стол",
+    "skill": "Кулинария",
+    "skill_level": 5,
+    "productId": "4qdqn",
+    "productCount": 4,
+    "requirements": [
+      {"itemId": "dm165", "count": 3},
+      {"itemId": "zz1o2", "count": 2},
+      {"itemId": "3g12z", "count": 1}
+    ]
+  },
+  {
+    "id": "5l23g",
+    "station": "Кухонный стол",
+    "skill": "Кулинария",
+    "skill_level": 5,
+    "productId": "5l23g",
+    "productCount": 6,
+    "requirements": [
+      {"itemId": "5dp0", "count": 4},
+      {"itemId": "y391o", "count": 4},
+      {"itemId": "404p", "count": 1},
+      {"itemId": "dqg5", "count": 2},
+      {"itemId": "1r246", "count": 3}
+    ]
+  },
+  {
+    "id": "4qd3p",
+    "station": "Кухонный стол",
+    "skill": "Кулинария",
+    "skill_level": 5,
+    "productId": "4qd3p",
+    "productCount": 6,
+    "requirements": [
+      {"itemId": "woro", "count": 1},
+      {"itemId": "rwow5", "count": 1},
+      {"itemId": "1dk6", "count": 2},
+      {"itemId": "n4l63", "count": 3},
+      {"itemId": "1r246", "count": 2}
+    ]
+  },
+  {
+    "id": "1r246",
+    "station": "Кухонный стол",
+    "skill": "Кулинария",
+    "skill_level": 5,
+    "productId": "1r246",
+    "productCount": 2,
+    "requirements": [
+      {"itemId": "vrld", "count": 1},
+      {"itemId": "dqg5", "count": 1},
+      {"itemId": "zz1o2", "count": 1},
+      {"itemId": "3g12z", "count": 1}
+    ]
+  },
+  {
+    "id": "wj2zp",
+    "station": "Кухонный стол",
+    "skill": "Кулинария",
+    "skill_level": 5,
+    "productId": "wj2zp",
+    "productCount": 6,
+    "requirements": [
+      {"itemId": "7rp7", "count": 6},
+      {"itemId": "404p", "count": 1},
+      {"itemId": "zz1o2", "count": 3},
+      {"itemId": "1r246", "count": 4}
+    ]
+  },
+  {
+    "id": "9m7w",
+    "station": "Кухонный стол",
+    "skill": "Кулинария",
+    "skill_level": 3,
+    "productId": "9m7w",
+    "productCount": 3,
+    "requirements": [
+      {"itemId": "kl9v", "count": 1},
+      {"itemId": "z3ozm", "count": 1}
+    ]
+  },
+  {
+    "id": "qj9n6",
+    "station": "Кухонный стол",
+    "skill": "Кулинария",
+    "skill_level": 3,
+    "productId": "qj9n6",
+    "productCount": 10,
+    "requirements": [
+      {"itemId": "9m7w", "count": 1},
+      {"itemId": "6rn6", "count": 3},
+      {"itemId": "y7dz", "count": 1},
+      {"itemId": "z3ozm", "count": 1},
+      {"itemId": "5ddo", "count": 5}
+    ]
+  },
+  {
+    "id": "wjwzp",
+    "station": "Кухонный стол",
+    "skill": "Самогоноварение",
+    "skill_level": 2,
+    "productId": "wjwzp",
+    "productCount": 5,
+    "requirements": [
+      {"itemId": "y75z", "count": 4},
+      {"itemId": "rwow5", "count": 3},
+      {"itemId": "5drg", "count": 2},
+      {"itemId": "z3ozm", "count": 1}
+    ]
+  },
+  {
+    "id": "1dwq",
+    "station": "Кухонный стол",
+    "skill": "Самогоноварение",
+    "skill_level": 2,
+    "productId": "1dwq",
+    "productCount": 10,
+    "requirements": [
+      {"itemId": "5drg", "count": 2},
+      {"itemId": "rr05", "count": 5},
+      {"itemId": "rwow5", "count": 2},
+      {"itemId": "z77k", "count": 5}
+    ]
+  },
+  {
+    "id": "g07g",
+    "station": "Кухонный стол",
+    "skill": "Самогоноварение",
+    "skill_level": 2,
+    "productId": "g07g",
+    "productCount": 6,
+    "requirements": [
+      {"itemId": "1dwq", "count": 5},
+      {"itemId": "40pn", "count": 5},
+      {"itemId": "1ddr", "count": 10}
+    ]
+  },
+  {
+    "id": "j5mg7",
+    "station": "Кухонный стол",
+    "skill": "Самогоноварение",
+    "skill_level": 3,
+    "productId": "j5mg7",
+    "productCount": 6,
+    "requirements": [
+      {"itemId": "1dwq", "count": 5},
+      {"itemId": "40pn", "count": 1},
+      {"itemId": "1ddr", "count": 7},
+      {"itemId": "g00n", "count": 15},
+      {"itemId": "r2mv", "count": 2}
+    ]
+  },
+  {
+    "id": "r2mv",
+    "station": "Кухонный стол",
+    "skill": "Самогоноварение",
+    "skill_level": 3,
+    "productId": "r2mv",
+    "productCount": 5,
+    "requirements": [
+      {"itemId": "g07g", "count": 3},
+      {"itemId": "1dwq", "count": 5}
+    ]
+  },
+  {
+    "id": "okdpo",
+    "station": "Кухонный стол",
+    "skill": "Самогоноварение",
+    "skill_level": 4,
+    "productId": "okdpo",
+    "productCount": 10,
+    "requirements": [
+      {"itemId": "3g1qz", "count": 8},
+      {"itemId": "964z0", "count": 4},
+      {"itemId": "g4lp0", "count": 2},
+      {"itemId": "rwoj5", "count": 1},
+      {"itemId": "y770", "count": 10}
+    ]
+  },
+  {
+    "id": "n4vg6",
+    "station": "Кухонный стол",
+    "skill": "Самогоноварение",
+    "skill_level": 4,
+    "productId": "n4vg6",
+    "productCount": 20,
+    "requirements": [
+      {"itemId": "9mmq", "count": 30},
+      {"itemId": "y40kk", "count": 1},
+      {"itemId": "m22k", "count": 5},
+      {"itemId": "l222", "count": 3}
+    ]
+  },
+  {
+    "id": "m0pyj",
+    "station": "Кухонный стол",
+    "skill": "Самогоноварение",
+    "skill_level": 4,
+    "productId": "m0pyj",
+    "productCount": 5,
+    "requirements": [
+      {"itemId": "j5mg7", "count": 4},
+      {"itemId": "40pn", "count": 1},
+      {"itemId": "z3ozm", "count": 1},
+      {"itemId": "5ddo", "count": 10}
+    ]
+  },
+  {
+    "id": "964z0",
+    "station": "Кухонный стол",
+    "skill": "Самогоноварение",
+    "skill_level": 4,
+    "productId": "964z0",
+    "productCount": 3,
+    "requirements": [
+      {"itemId": "rwow5", "count": 4},
+      {"itemId": "3g1qz", "count": 5},
+      {"itemId": "m0pyj", "count": 2},
+      {"itemId": "y770", "count": 5}
+    ]
+  },
+  {
+    "id": "g4lp0",
+    "station": "Кухонный стол",
+    "skill": "Самогоноварение",
+    "skill_level": 4,
+    "productId": "g4lp0",
+    "productCount": 3,
+    "requirements": [
+      {"itemId": "y75z", "count": 2},
+      {"itemId": "rwow5", "count": 4},
+      {"itemId": "z3ozm", "count": 1},
+      {"itemId": "m0pyj", "count": 2},
+      {"itemId": "y770", "count": 5}
+    ]
+  },
+  {
+    "id": "7lyo3",
+    "station": "Кухонный стол",
+    "skill": "Самогоноварение",
+    "skill_level": 5,
+    "productId": "7lyo3",
+    "productCount": 4,
+    "requirements": [
+      {"itemId": "lynkj", "count": 6},
+      {"itemId": "rw1mg", "count": 6},
+      {"itemId": "3gvgg", "count": 7},
+      {"itemId": "964z0", "count": 3},
+      {"itemId": "1r246", "count": 6}
+    ]
+  },
+  {
+    "id": "3g1zz",
+    "station": "Кухонный стол",
+    "skill": "Самогоноварение",
+    "skill_level": 5,
+    "productId": "3g1zz",
+    "productCount": 12,
+    "requirements": [
+      {"itemId": "j5mg7", "count": 8},
+      {"itemId": "m22k", "count": 10},
+      {"itemId": "lynrj", "count": 3},
+      {"itemId": "5ddo", "count": 10},
+      {"itemId": "npp9", "count": 6}
+    ]
+  },
+  {
+    "id": "vjy0n",
+    "station": "Кухонный стол",
+    "skill": "Самогоноварение",
+    "skill_level": 5,
+    "productId": "vjy0n",
+    "productCount": 12,
+    "requirements": [
+      {"itemId": "3g1qz", "count": 3},
+      {"itemId": "n4vg6", "count": 6},
+      {"itemId": "ovv5", "count": 12},
+      {"itemId": "r22z", "count": 7},
+      {"itemId": "npp9", "count": 10}
+    ]
+  },
+  {
+    "id": "g4lzg",
+    "station": "Кухонный стол",
+    "skill": "Самогоноварение",
+    "skill_level": 5,
+    "productId": "g4lzg",
+    "productCount": 3,
+    "requirements": [
+      {"itemId": "wjwzp", "count": 2},
+      {"itemId": "j5mg7", "count": 4},
+      {"itemId": "964z0", "count": 2}
+    ]
+  },
+  {
+    "id": "zzqn9",
+    "station": "Кухонный стол",
+    "skill": "Самогоноварение",
+    "skill_level": 5,
+    "productId": "zzqn9",
+    "productCount": 3,
+    "requirements": [
+      {"itemId": "5drg", "count": 3},
+      {"itemId": "3g1qz", "count": 4},
+      {"itemId": "g4lp0", "count": 2}
+    ]
+  },
+  {
+    "id": "6w5lj",
+    "station": "Кухонный стол",
+    "skill": "Самогоноварение",
+    "skill_level": 5,
+    "productId": "6w5lj",
+    "productCount": 10,
+    "requirements": [
+      {"itemId": "5np0", "count": 1},
+      {"itemId": "y2mo", "count": 1},
+      {"itemId": "4npn", "count": 1},
+      {"itemId": "5ddo", "count": 10},
+      {"itemId": "y770", "count": 1}
+    ]
+  },
+  {
+    "id": "3g1qz",
+    "station": "Кухонный стол",
+    "skill": "Самогоноварение",
+    "skill_level": 3,
+    "productId": "3g1qz",
+    "productCount": 10,
+    "requirements": [
+      {"itemId": "drmwj", "count": 2},
+      {"itemId": "rwow5", "count": 5},
+      {"itemId": "1ddr", "count": 10}
+    ]
+  },
+  {
+    "id": "rwow5_b",
+    "station": "Кухонный стол",
+    "skill": "Кулинария",
+    "skill_level": 1,
+    "productId": "rwow5",
+    "productCount": 5,
+    "requirements": [
+      {"itemId": "pry2", "count": 5},
+      {"itemId": "m22k", "count": 10}
+    ]
+  },
+  {
+    "id": "96gqz",
+    "station": "Кухонный стол",
+    "skill": "Кулинария",
+    "skill_level": 1,
+    "productId": "96gqz",
+    "productCount": 40,
+    "requirements": [
+      {"itemId": "rr05", "count": 3},
+      {"itemId": "rwow5", "count": 2},
+      {"itemId": "9mmq", "count": 8},
+      {"itemId": "6r0j", "count": 2}
+    ]
+  },
+  {
+    "id": "1rn01",
+    "station": "Кухонный стол",
+    "skill": "Кулинария",
+    "skill_level": 1,
+    "productId": "1rn01",
+    "productCount": 40,
+    "requirements": [
+      {"itemId": "rr05", "count": 3},
+      {"itemId": "rwow5", "count": 2},
+      {"itemId": "9mmq", "count": 8},
+      {"itemId": "6r0j", "count": 2}
+    ]
+  },
+  {
+    "id": "9mn0",
+    "station": "Кухонный стол",
+    "skill": "Кулинария",
+    "skill_level": 1,
+    "productId": "9mn0",
+    "productCount": 4,
+    "requirements": [
+      {"itemId": "3rpg", "count": 1},
+      {"itemId": "m22k", "count": 10}
+    ]
+  },
+  {
+    "id": "6r0j",
+    "station": "Кухонный стол",
+    "skill": "Кулинария",
+    "skill_level": 1,
+    "productId": "6r0j",
+    "productCount": 5,
+    "requirements": [
+      {"itemId": "rrrz", "count": 5}
+    ]
+  },
+  {
+    "id": "1dk6",
+    "station": "Кухонный стол",
+    "skill": "Кулинария",
+    "skill_level": 1,
+    "productId": "1dk6",
+    "productCount": 10,
+    "requirements": [
+      {"itemId": "9mmq", "count": 6},
+      {"itemId": "rrrz", "count": 10},
+      {"itemId": "q03dj", "count": 7},
+      {"itemId": "g00n", "count": 6}
+    ]
+  },
+  {
+    "id": "6rn6",
+    "station": "Кухонный стол",
+    "skill": "Кулинария",
+    "skill_level": 2,
+    "productId": "6rn6",
+    "productCount": 3,
+    "requirements": [
+      {"itemId": "rwow5", "count": 3},
+      {"itemId": "rr05", "count": 5},
+      {"itemId": "6r0j", "count": 3}
+    ]
+  },
+  {
+    "id": "7rvr",
+    "station": "Кухонный стол",
+    "skill": "Кулинария",
+    "skill_level": 2,
+    "productId": "7rvr",
+    "productCount": 5,
+    "requirements": [
+      {"itemId": "2d76", "count": 2},
+      {"itemId": "1dk6", "count": 3}
+    ]
+  },
+  {
+    "id": "2dkm",
+    "station": "Кухонный стол",
+    "skill": "Кулинария",
+    "skill_level": 2,
+    "productId": "2dkm",
+    "productCount": 5,
+    "requirements": [
+      {"itemId": "vrpd", "count": 2},
+      {"itemId": "1dk6", "count": 3}
+    ]
+  },
+  {
+    "id": "3rjk",
+    "station": "Кухонный стол",
+    "skill": "Кулинария",
+    "skill_level": 2,
+    "productId": "3rjk",
+    "productCount": 5,
+    "requirements": [
+      {"itemId": "dq0n", "count": 2},
+      {"itemId": "1dk6", "count": 3}
+    ]
+  },
+  {
+    "id": "y75z",
+    "station": "Кухонный стол",
+    "skill": "Самогоноварение",
+    "skill_level": 1,
+    "productId": "y75z",
+    "productCount": 10,
+    "requirements": [
+      {"itemId": "rwow5", "count": 2},
+      {"itemId": "g00n", "count": 4},
+      {"itemId": "5ddo", "count": 2}
+    ]
+  },
+  {
+    "id": "5drg",
+    "station": "Кухонный стол",
+    "skill": "Самогоноварение",
+    "skill_level": 1,
+    "productId": "5drg",
+    "productCount": 10,
+    "requirements": [
+      {"itemId": "z77k", "count": 5},
+      {"itemId": "5ddo", "count": 5}
+    ]
+  },
+  {
+    "id": "drmwj",
+    "station": "Кухонный стол",
+    "skill": "Самогоноварение",
+    "skill_level": 1,
+    "productId": "drmwj",
+    "productCount": 8,
+    "requirements": [
+      {"itemId": "rr05", "count": 5},
+      {"itemId": "vrwg", "count": 1},
+      {"itemId": "z77k", "count": 3}
+    ]
+  },
+  {
+    "id": "40pn",
+    "station": "Кухонный стол",
+    "skill": "Самогоноварение",
+    "skill_level": 1,
+    "productId": "40pn",
+    "productCount": 10,
+    "requirements": [
+      {"itemId": "rr05", "count": 10},
+      {"itemId": "7l127", "count": 1},
+      {"itemId": "1rl71", "count": 1}
+    ]
+  },
+  {
+    "id": "vrwg",
+    "station": "Кухонный стол",
+    "skill": "Самогоноварение",
+    "skill_level": 1,
+    "productId": "vrwg",
+    "productCount": 1,
+    "requirements": [
+      {"itemId": "rwow5", "count": 1},
+      {"itemId": "6r0j", "count": 1}
+    ]
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
