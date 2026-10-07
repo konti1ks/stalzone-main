@@ -1,6 +1,6 @@
 """
 Stalzone Main — калькулятор убежища.
-v1.0: релиз. Только TG/Discord в поддержке. Пасхалка перекрашена.
+v1.2: тумблер Закупка/Крафт.
 """
 import json
 import math
@@ -19,7 +19,7 @@ from icons import (IconManager, create_logo_image, create_window_icon,
                    create_skill_icon, SKILL_ICON_KINDS)
 
 APP_NAME = "Stalzone Main"
-APP_VERSION = "1.0"
+APP_VERSION = "1.1"
 APP_AUTHOR = "konti1k"
 
 SUPPORT_DISCORD = "https://discord.gg/CaTPHt8DJ"
@@ -276,7 +276,7 @@ class ModernContextMenu(tk.Toplevel):
         self._closed = False
         self._on_close_cb = on_close
         self._root_bind_id = None
-        self._root = parent.winfo_toplevel()
+        self._menu_root = parent.winfo_toplevel()
 
         self.overrideredirect(True)
         try:
@@ -341,7 +341,7 @@ class ModernContextMenu(tk.Toplevel):
         except Exception:
             pass
         try:
-            self._root_bind_id = self._root.bind(
+            self._root_bind_id = self._menu_root.bind(
                 "<Button-1>", self._on_global_click, add="+")
         except Exception:
             self._root_bind_id = None
@@ -376,7 +376,7 @@ class ModernContextMenu(tk.Toplevel):
         self._closed = True
         if self._root_bind_id is not None:
             try:
-                self._root.unbind("<Button-1>", self._root_bind_id)
+                self._menu_root.unbind("<Button-1>", self._root_bind_id)
             except Exception:
                 pass
             self._root_bind_id = None
@@ -1224,13 +1224,8 @@ class InfoWindow(FloatingWindow):
         inner.tag_configure("sep", foreground=C_BORDER,
                             font=(F_DISPLAY, 6))
 
-        # палитра для «деманов» — приглушённые тона, но разные
         dm_palette = [
-            "#4a2e3e",  # тёмно-розовый
-            "#3a2e4a",  # тёмно-фиолетовый
-            "#2e3a4a",  # тёмно-синий
-            "#4a3e2e",  # тёмно-янтарный
-            "#2e4a3a",  # тёмно-зелёный
+            "#4a2e3e", "#3a2e4a", "#2e3a4a", "#4a3e2e", "#2e4a3a",
         ]
 
         tb.insert("end", f"{APP_NAME}\n", "h1")
@@ -1241,6 +1236,7 @@ class InfoWindow(FloatingWindow):
         for line in [
             "Себестоимость любого рецепта из базы данных",
             "Учёт уровней навыков — недоступные рецепты блокируются",
+            "Тумблер «Закупка | Крафт» — считает по ценам или по крафту",
             "Прибыль при продаже с рук и через аукцион",
             "Автосохранение цен, навыков и заметок",
         ]:
@@ -1251,6 +1247,7 @@ class InfoWindow(FloatingWindow):
             "Вкладка «Предметы» — задай цены на ресурсы (ПКМ по строке)",
             "Вкладка «Навыки» — выставь свои уровни",
             "Вкладка «Рецепты» — выбери рецепт, увидишь расчёт",
+            "Тумблер «Закупка | Крафт» — переключи режим подсчёта",
             "Впиши цену продажи — увидишь чистую прибыль",
         ], 1):
             tb.insert("end", f"  {i}.  {line}\n", "bullet")
@@ -1259,7 +1256,6 @@ class InfoWindow(FloatingWindow):
         tb.insert("end", "Создатель  ·  ", "author")
         tb.insert("end", f"{APP_AUTHOR}\n", "author_val")
 
-        # --- тихая цветная строчка в самом низу ---
         tb.insert("end", "\n\n\n\n\n\n\n\n")
         dm_words = ["деманы", "деманы", "деманы", "меня", "не", "одолели",
                     "деманы", "деманы", "деманы"]
@@ -1290,9 +1286,6 @@ class SupportWindow(FloatingWindow):
                      anchor="w", wraplength=380, justify="left"
                      ).pack(fill="x", pady=(0, 14))
 
-        self._status = ctk.CTkLabel(outer, text="", text_color=C_TEXT_MUT,
-                                    font=(F_DISPLAY, 10), anchor="w")
-
         def row(label, value, url):
             block = ctk.CTkFrame(outer, fg_color=C_SURFACE_2,
                                  corner_radius=10,
@@ -1322,8 +1315,6 @@ class SupportWindow(FloatingWindow):
 
         row("Discord", SUPPORT_DISCORD, SUPPORT_DISCORD)
         row("Telegram", SUPPORT_TELEGRAM, SUPPORT_TELEGRAM)
-
-        self._status.pack(fill="x", pady=(10, 0))
 
 
 class StalzoneMain(ctk.CTk):
@@ -1381,6 +1372,8 @@ class StalzoneMain(ctk.CTk):
         self._calc_win = None
         self._info_win = None
         self._support_win = None
+
+        self._calc_mode = "buy"
 
         self._setup_window_icon()
         self.deiconify()
@@ -1794,6 +1787,11 @@ class StalzoneMain(ctk.CTk):
     def _open_support(self):
         self._toggle_window("_support_win", SupportWindow)
 
+    def _on_calc_mode_change(self, mode_label: str):
+        self._calc_mode = "buy" if mode_label == "Закупка" else "craft"
+        if self._selected_recipe is not None:
+            self._on_recipe_click(self._selected_recipe.recipe_id)
+
     def _build_ui(self):
         self.status_var = tk.StringVar()
         self._reset_status()
@@ -2055,7 +2053,7 @@ class StalzoneMain(ctk.CTk):
         self.recipes_list.pack(fill="both", expand=True, padx=6, pady=6)
 
         bottom = ctk.CTkFrame(page, fg_color=C_SURFACE,
-                              corner_radius=12, height=280)
+                              corner_radius=12, height=320)
         bottom.grid(row=3, column=0, sticky="ew", padx=24, pady=(0, 18))
         bottom.pack_propagate(False)
         bottom.grid_columnconfigure(0, weight=1)
@@ -2069,6 +2067,22 @@ class StalzoneMain(ctk.CTk):
                      text_color=C_TEXT_MUT,
                      font=(F_DISPLAY, 11)).pack(side="left",
                                                 padx=(12, 0), pady=(3, 0))
+
+        self._calc_mode_var = tk.StringVar(value="Закупка")
+        ctk.CTkSegmentedButton(
+            bh,
+            values=["Закупка", "Крафт"],
+            variable=self._calc_mode_var,
+            command=self._on_calc_mode_change,
+            fg_color=C_SURFACE_3,
+            selected_color=C_ACCENT,
+            selected_hover_color=C_ACCENT_H,
+            unselected_color=C_SURFACE_3,
+            unselected_hover_color=C_SURFACE_4,
+            text_color=C_TEXT,
+            font=(F_DISPLAY, 11),
+            height=28,
+        ).pack(side="right")
 
         self.detail_text = ctk.CTkTextbox(
             bottom, fg_color=C_SURFACE_2, corner_radius=10,
@@ -2087,6 +2101,7 @@ class StalzoneMain(ctk.CTk):
         inner.tag_configure("bad", foreground=C_BAD)
         inner.tag_configure("warn", foreground=C_WARN)
         inner.tag_configure("total", foreground=C_ACCENT)
+        inner.tag_configure("craft_tag", foreground=C_ACCENT_P)
 
         lock_text_selection(self.detail_text)
 
@@ -2547,7 +2562,7 @@ class StalzoneMain(ctk.CTk):
                 self.items_list.update_value(idx, value, color)
                 break
         if self._selected_recipe is not None:
-            self._recalc_profit()
+            self._on_recipe_click(self._selected_recipe.recipe_id)
 
     def _on_recipe_search_changed(self):
         if self._recipe_search_timer is not None:
@@ -2635,6 +2650,8 @@ class StalzoneMain(ctk.CTk):
                 lambda r, _rid=recipe_id: r.recipe_id == _rid)
 
         available = self._is_recipe_available(recipe)
+        mode = self._calc_mode
+
         t = self.detail_text
         t.configure(state="normal")
         t.delete("1.0", tk.END)
@@ -2657,29 +2674,55 @@ class StalzoneMain(ctk.CTk):
             line += f"  ·  {recipe.skill} {recipe.skill_level}"
         elif recipe.skill:
             line += f"  ·  {recipe.skill}"
+
+        mode_str = ("по закупочным ценам" if mode == "buy"
+                    else "по себестоимости крафта")
+        line += f"   ·   {mode_str}"
         t.insert(tk.END, line + "\n", "dim")
         t.insert(tk.END, "  " + "─" * 76 + "\n", "muted")
 
-        rows = self.calc.recipe_details(recipe)
+        rows = self.calc.recipe_details(recipe, mode=mode)
         total = 0.0
         unknown = 0
         for row in rows:
             t.insert(tk.END, f"  • {row['name']}  ×{row['count']}    ")
-            if row["line_total"] is not None:
-                t.insert(tk.END,
-                         f"→  {row['line_total']:>12,.0f}\n"
-                         .replace(",", " "), "ok")
-                total += row["line_total"]
-            else:
-                t.insert(tk.END, "→  цена не задана\n", "bad")
+            lt = row["line_total"]
+            if lt is None:
+                t.insert(tk.END, "→  не рассчитать\n", "bad")
                 unknown += 1
+                continue
+
+            total += lt
+
+            if mode == "craft":
+                bu = row.get("buy_unit")
+                if row.get("used_craft"):
+                    t.insert(tk.END,
+                             f"→  🛠 крафт  {lt:>10,.0f}".replace(",", " "),
+                             "craft_tag")
+                    if bu is not None:
+                        t.insert(tk.END,
+                                 f"   (закуп {bu:,.0f})".replace(",", " "),
+                                 "muted")
+                    t.insert(tk.END, "\n")
+                elif bu is not None:
+                    t.insert(tk.END,
+                             f"→  💰 закуп  {lt:>10,.0f}".replace(",", " "),
+                             "ok")
+                    t.insert(tk.END, "\n")
+                else:
+                    t.insert(tk.END, f"→  {lt:>12,.0f}\n"
+                             .replace(",", " "), "ok")
+            else:
+                t.insert(tk.END, f"→  {lt:>12,.0f}\n"
+                         .replace(",", " "), "ok")
 
         t.insert(tk.END, "  " + "─" * 76 + "\n", "muted")
         total_str = f"{total:>12,.0f}".replace(",", " ")
         t.insert(tk.END, f"  СЕБЕСТОИМОСТЬ:{total_str}\n", "total")
         if unknown:
             t.insert(tk.END,
-                     f"  ⚠ не задано цен для {unknown} ингредиент(ов)\n",
+                     f"  ⚠ не рассчитано {unknown} ингредиент(ов)\n",
                      "bad")
         if recipe.product_count > 0:
             per_unit = f"{total / recipe.product_count:>10,.0f}".replace(
@@ -2726,11 +2769,11 @@ class StalzoneMain(ctk.CTk):
             self._profit_auction.configure(text="не число", text_color=C_BAD)
             return
 
-        cost = self.calc.craft_cost(recipe)
-        if cost == float("inf"):
-            self._profit_hands.configure(text="нет цен ингр.",
+        cost = self.calc.recipe_cost(recipe, mode=self._calc_mode)
+        if cost is None:
+            self._profit_hands.configure(text="нет цен",
                                          text_color=C_TEXT_MUT)
-            self._profit_auction.configure(text="нет цен ингр.",
+            self._profit_auction.configure(text="нет цен",
                                            text_color=C_TEXT_MUT)
             return
 
